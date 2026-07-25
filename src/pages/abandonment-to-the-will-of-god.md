@@ -5,4 +5,4 @@ attachments:
 ---
 This page has the following sub-pages:  
   
-[Abandonment to the Will of God -- Le Cantique spirituel de Jean-Joseph Surin](le-cantique-spirituel-de-jean-joseph-surin.html)
+[Abandonment to the Will of God -- Le Cantique spirituel de Jean-Joseph Surin](/le-cantique-spirituel-de-jean-joseph-surin/)

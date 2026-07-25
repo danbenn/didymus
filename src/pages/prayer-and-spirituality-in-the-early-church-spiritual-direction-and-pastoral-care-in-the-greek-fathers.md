@@ -4,4 +4,4 @@ slug: "prayer-and-spirituality-in-the-early-church-spiritual-direction-and-pasto
 attachments:
 ---
 Prayer and Spirituality in the Early Church: Spiritual Direction and Pastoral Care in the Greek Fathers  
-     [Prayer and Spirituality in the Early Church Syllabus](prayer-and-spirituality-in-the-early-church-syllabus.html)
+     [Prayer and Spirituality in the Early Church Syllabus](/prayer-and-spirituality-in-the-early-church-syllabus/)

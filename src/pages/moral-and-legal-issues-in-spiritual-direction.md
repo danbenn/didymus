@@ -5,4 +5,4 @@ attachments:
 ---
 This page has the following sub-pages:  
   
-[Moral and Legal Issues in the Training of Spiritual Directors -- Bibliography](moral-and-legal-issues-in-spiritual-direction-bibliography.html)
+[Moral and Legal Issues in the Training of Spiritual Directors -- Bibliography](/moral-and-legal-issues-in-spiritual-direction-bibliography/)
