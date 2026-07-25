@@ -1,6 +1,7 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "www.didymus.org/uploads/3/4/2/1/3421357": "files" });
   eleventyConfig.addPassthroughCopy("src/css");
+  eleventyConfig.addPassthroughCopy("src/img");
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy({ "www.didymus.org/audio": "audio" });
 

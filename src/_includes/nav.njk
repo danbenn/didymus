@@ -1,0 +1,11 @@
+{% macro navitem(item) %}<li>
+{% if item.children %}<details>
+<summary>{{ item.title }}</summary>
+<ul>
+{% if item.slug %}<li><a href="/{{ item.slug }}/">{{ item.title }} (overview)</a></li>{% endif %}
+{% for child in item.children %}{{ navitem(child) }}{% endfor %}
+</ul>
+</details>
+{% else %}<a href="{% if item.slug %}/{{ item.slug }}/{% else %}/{% endif %}">{{ item.title }}</a>
+{% endif %}</li>
+{% endmacro %}

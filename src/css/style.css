@@ -1,13 +1,13 @@
 :root {
   color-scheme: light dark;
-  --fg: #1a1a1a;
-  --bg: #fdfcf9;
-  --accent: #6b3f2a;
-  --muted: #666;
+  --fg: #333333;
+  --bg: #ffffff;
+  --accent: #4a4a4a;
+  --muted: #666666;
   --border: #ddd;
 }
 @media (prefers-color-scheme: dark) {
-  :root { --fg: #eee; --bg: #171512; --muted: #aaa; --border: #333; }
+  :root { --fg: #eee; --bg: #171512; --accent: #ccc; --muted: #aaa; --border: #333; }
 }
 * { box-sizing: border-box; }
 body {
@@ -22,11 +22,26 @@ main { max-width: 46rem; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
   max-width: 46rem; margin: 0 auto; padding: 1.5rem 1.25rem 0.5rem;
   border-bottom: 1px solid var(--border);
 }
-.site-title { font-size: 1.6rem; font-weight: bold; text-decoration: none; color: var(--accent); }
-.site-subtitle { margin: 0.1rem 0 0.8rem; color: var(--muted); font-style: italic; }
-nav a { color: var(--accent); }
+.site-title-wrap { display: flex; align-items: center; gap: 0.75rem; text-decoration: none; }
+.site-logo { height: 2.5rem; width: auto; border-radius: 2px; }
+.site-title { font-size: 1.6rem; font-weight: bold; color: var(--accent); }
+.site-subtitle { margin: 0.3rem 0 0.9rem; color: var(--muted); font-style: italic; }
 h1 { color: var(--accent); }
-a { color: var(--accent); }
+a { color: #2b5c8a; }
+@media (prefers-color-scheme: dark) { a { color: #7fb2e0; } }
+
+.site-nav { font-size: 0.95rem; }
+.nav-tree, .nav-tree ul { list-style: none; margin: 0; padding: 0; }
+.nav-tree { display: flex; flex-wrap: wrap; gap: 0.25rem 1rem; }
+.nav-tree > li { position: relative; }
+.nav-tree a { text-decoration: none; }
+.nav-tree a:hover { text-decoration: underline; }
+.nav-tree summary { cursor: pointer; list-style: none; display: inline; }
+.nav-tree summary::-webkit-details-marker { display: none; }
+.nav-tree details > summary::after { content: " ▾"; font-size: 0.7em; color: var(--muted); }
+.nav-tree details[open] > summary::after { content: " ▴"; }
+.nav-tree ul { padding-left: 1rem; margin-top: 0.25rem; }
+.nav-tree > li > ul { border-left: 1px solid var(--border); }
 .attachments { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); }
 .attachments ul { padding-left: 1.2rem; }
 .site-footer { max-width: 46rem; margin: 0 auto; padding: 1rem 1.25rem 2rem; color: var(--muted); font-size: 0.85rem; }

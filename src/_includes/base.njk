@@ -8,10 +8,19 @@
 <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
+{% import "nav.njk" as navmacro %}
 <header class="site-header">
-  <a class="site-title" href="/">Didymus</a>
+  <a class="site-title-wrap" href="/">
+    <img class="site-logo" src="/img/header.jpg" alt="Didymus">
+    <span class="site-title">Didymus</span>
+  </a>
   <p class="site-subtitle">Early Christian Spirituality and Spiritual Direction</p>
-  <nav><a href="/">Home</a> · <a href="/sitemap/">All Pages</a></nav>
+  <nav class="site-nav">
+    <ul class="nav-tree">
+    {% for item in nav %}{{ navmacro.navitem(item) }}{% endfor %}
+      <li><a href="/sitemap/">All Pages</a></li>
+    </ul>
+  </nav>
 </header>
 <main>
 {{ content | safe }}
