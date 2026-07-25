@@ -1,10 +1,35 @@
 ---
-title: "Augustine and the Manichaeans on Evil"
-slug: "augustine-and-the-manichaeans-on-evil"
 attachments:
-  - file: "augustine_and_the_manichaeans_on_evil.pdf"
-    url: "/files/augustine_and_the_manichaeans_on_evil.pdf"
+- file: augustine_and_the_manichaeans_on_evil.pdf
+  url: /files/augustine_and_the_manichaeans_on_evil.pdf
+slug: augustine-and-the-manichaeans-on-evil
+title: Augustine and the Manichaeans on Evil
 ---
-Your browser does not support viewing this document. Click [here](uploads/3/4/2/1/3421357/augustine_and_the_manichaeans_on_evil.pdf) to download the document.
 
-(function () { if (window.wpdf && window.wpdf.supportsPDFs && window.wpdf.isPDF('/uploads/3/4/2/1/3421357/augustine\_and\_the\_manichaeans\_on\_evil.pdf')) { var embed = document.getElementById('353069788120077826-pdf-embed'); embed.style.display = 'block'; window.wpdf.embed('/uploads/3/4/2/1/3421357/augustine\_and\_the\_manichaeans\_on\_evil.pdf', embed); } else { var fallback = document.getElementById('353069788120077826-pdf-fallback'); fallback.style.display = 'block'; } })();
+
+
+<!-- pdf-fulltext -->
+
+## Full Text
+
+### Augustine And The Manichaeans On Evil
+
+Augustine's Anti-Manichaean Writings and the Problem of Evil
+
+Prayer Before Studying Theology: Since we are very weak by nature and surrounded on all sides by dense darkness, we come to you, O almighty God, and ask you to light the lamp of your spirit in our soul so that we may grasp your pure teachings and the chaste statements of the Holy Scriptures which clearly promise that you will be the protector of all who hope in you. The sins that we have committed obviously do not merit that we should request and obtain from you so much favor and help, but we hope that this will happen to us through the glory of your great name. Since there is no other god to match you in power or goodness, may you yourself confer on us holiness and gird us with the strength by which we are first led safe from threatening dangers and then made triumphant over all that opposes our salvation and your glory. Through Jesus Christ our Lord. Amen.
+
+--Peter Martyr Vermigli (From Psalm 18; slightly adapted)
+
+Augustine: The Centrality of the Problem of Evil in His Life and Thought Augustine had at one time belonged to the Manichaean religion, which had their own explanation for why so much evil existed in the present world and why we are so strongly tempted to sin. They believed that 1) good and evil were separate principles and each had a limited, circumscribed existence (originally all the good beings lived together in a good realm of Light, all the evil beings lived together in an evil realm of Darkness); 2) the evil beings left the evil realm to invade the good realm and seize the Light; 3) the present world is therefore a mixture of good/Light and evil/Darkness, with a) the body and its desires being associated with the Darkness and tending toward evil and b) the mind being associated with Light and (when illuminated and redeemed) tending toward good. The answer to the problem of evil, then, is this: the world that presently exists is not the world that should exist.
+- Not all of what exists is good or can be traced back to God.
+- Some of what exists is inherently evil and traces its origin ultimately to a principle of evil that is separate from God and opposes God. (The good news is that the good is stronger than the evil and will win the battle and finally defeat and imprison evil and all who insist upon associating themselves with it.)
+
+After leaving the Manichaean religion and rejecting its teaching, Augustine still had to deal with Manichaeans trying to spread their religion within his diocese, writing letters to him and engaging in public debate with him. Much of Augustine's reflection upon evil is tied up with his attempt to show that
+- God is the all-powerful creator of all things and
+- evil does not have a comparable power or responsibility for the things that exist or the events that happen within the present world.
+
+Augustine freely admits that a great number of physical and moral evils exist but argues that we should recognize that (contrary to what the Manichaeans thought) we should see all created things as God's good gift.
+
+More specifically, Augustine argues that 1) God, because of his goodness and mercy, has given a)  life, free will, and physical powers to all creatures for their benefit, even though presently misuse these gifts for evil; b) heat, cold and even poisonous animals (such as scorpions) are not evil in themselves but have an appropriate place within the providential order of the whole world. i) When rightly understood and used, these contribute something good and beneficial to the whole (for ex., scorpion venom has been used to treat certain medical problems). ii) When wrongly understood and used in improper ways, they can also be tremendously harmful. iii) Conclusion: #1: Evil should not be thought of as an equal power opposing God; evil is rather the absence of good, which exists where the things God has created and declared good are misused and disorder results. iv) Conclusion #2: Some natural evils can therefore be traced back to moral evils (negative consequence of our misuse). 2) all human beings have sinned and some (but not all) physical evils are a) God's just punishment of sinners because of their evil choices and actions and b) may move those punished to repent of their evils; c) Conclusion #3: Some natural evils represent the just punishment for our evils but can have the benefit of moving us to turn away from evil and pursue the good; 3) "God judged it better to bring good out of evil than not to permit any evil to exist" a) explains why God did not immediately punish evil and wholly abolish it b) Conclusion #4: Having passed through evil and experienced unmerited grace, human beings are now able to appreciate the seriousness and destructive power of sin and the profound goodness of God in a way that unfallen human beings could not have. 4) The fact the righteous live in an evil, disordered world and share in its hardships can a) help them come to appreciate the relative value of all created things i) By the goodness of God, both the righteous and unrighteous are given these things;
+
+ii) all created things lack permanence and stability (only God has permanence and stability and only in him can we find these things). When we realize this, we are more able properly to understand and bear the losses we experience. (1) Note the way that Augustine has set this up; the things that are truly good and necessary turn out to be intangible and therefore cannot be taken away from us (see esp. City of God I.10 [pp. 17-20]). Only with this attitude can one rightly use material possessions and thus avoid the spiritual harm and death of the soul that arises from a wrong understanding of possessions and a wrong orientation toward them (and their acquisition, management and loss). iii) display and make evident to the world the difference between the fundamental character and tendencies of the righteous and those of the wicked. How one responds to evils tells the observer a good deal about what kind of person one is and what the significance and value of such a character or kind of life truly is: (1) Those living disordered, self-oriented lives will descend into bitterness, cursing and self-pity, which are the predictable fruits of a failure to recognize that God alone is truly worthy of our desire, love and pursuit and that all created things will inevitably fail us and fall short. (2) Those living lives that are rightly ordered will have learned (with difficulty) to trust God through difficulties and, through failures, to become more patient with other's failings. b) help them move beyond their natural fear of conflict and desire to please others, so that they may challenge others to recognize their evils as evils and repent of them

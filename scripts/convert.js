@@ -40,6 +40,9 @@ function stripDownloadWidgets($, content) {
       $el.remove();
     }
   });
+  // Weebly's dead "Scribd" PDF-embed widget: fallback text + an inert <script> that
+  // referenced window.wpdf, a Weebly-hosted viewer that no longer exists.
+  content.find(".wsite-scribd").remove();
 }
 
 function main() {

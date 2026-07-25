@@ -1,10 +1,74 @@
 ---
-title: "Persecution Apostasy and the Controversy Over Restoring the Lapsed"
-slug: "persecution-apostasy-and-the-controversy-over-restoring-the-lapsed"
 attachments:
-  - file: "persecution_apostasy_and_the_controversy_over_restoring_the_lapsed.pdf"
-    url: "/files/persecution_apostasy_and_the_controversy_over_restoring_the_lapsed.pdf"
+- file: persecution_apostasy_and_the_controversy_over_restoring_the_lapsed.pdf
+  url: /files/persecution_apostasy_and_the_controversy_over_restoring_the_lapsed.pdf
+slug: persecution-apostasy-and-the-controversy-over-restoring-the-lapsed
+title: Persecution Apostasy and the Controversy Over Restoring the Lapsed
 ---
-Your browser does not support viewing this document. Click [here](uploads/3/4/2/1/3421357/persecution_apostasy_and_the_controversy_over_restoring_the_lapsed.pdf) to download the document.
 
-(function () { if (window.wpdf && window.wpdf.supportsPDFs && window.wpdf.isPDF('/uploads/3/4/2/1/3421357/persecution\_apostasy\_and\_the\_controversy\_over\_restoring\_the\_lapsed.pdf')) { var embed = document.getElementById('797410387758137896-pdf-embed'); embed.style.display = 'block'; window.wpdf.embed('/uploads/3/4/2/1/3421357/persecution\_apostasy\_and\_the\_controversy\_over\_restoring\_the\_lapsed.pdf', embed); } else { var fallback = document.getElementById('797410387758137896-pdf-fallback'); fallback.style.display = 'block'; } })();
+
+
+<!-- pdf-fulltext -->
+
+## Full Text
+
+### Persecution Apostasy And The Controversy Over Restoring The Lapsed
+
+Prayer Before Studying Theology: Dearest Lord, teach me to be generous; Teach me to serve you as you deserve; To give and not to count the cost, To fight and not to heed the wounds, To toil and not to seek for rest, To labor and not to seek reward, Save that of knowing that I do your will.
+
+--Ignatius of Loyola
+
+Class #6: Martyrdom, Persecution and the Problem of Moral and Spiritual Failure Two of the important pastoral issues that the Church had to face in the third century, following times of persecution, were these: • Can people who have committed serious sins (murder, adultery/extra-marital sexuality, and especially denying the faith under persecution) be reconciled and readmitted to the church and how should this be done? • When the Church's unity has been torn apart by disagreements (e.g. over the readmission to the church of those who have once denied the faith) and different (schismatic) groups have formed, how can the Church work to rise above schism and recover a healthy unity? How should people who have belonged to heretical or schismatic groups be (re)admitted to the church?
+
+Apostasy as a Pastoral Problem in the New Testament Before we look at the texts from the third century, it would be useful to go back a bit farther, to the New Testament itself, where falling away (apostasy) is often discussed and treated as a present possibility.
+- Cf. Jesus' explanation of the parable of the sower in Lk. 8:13.
+
+Apostasy is also a major theme in Acts, Paul (esp. the Pastoral Epistles) and Hebrews, see esp.
+- Acts 20:29: "I know that after my departure fierce wolves will come in among you, not sparing the flock" (false teachers who have departed from the faith will harm others, leading them astray);
+- 2 Thess. 2:3: (a time of falling away will occur with the coming of a false teacher)
+- 1 Tim. 4:1 (apostasy to be expected in these last times, where error will lead persons to depart the faith);
+- Heb. 3:12 (an evil, unbelieving heart leads to falling away from God);
+
+- 2 Tim. 2:16-19 (false teaching is a falling away from the truth of God and thus produces increasing distance from God)
+
+Although, as we have seen, the New Testament views apostasy (falling away from the faith) as having a variety of causes (erroneous teachings, false teachers, an evil and unbelieving heart, etc.), the context for apostasy is often the suffering occasioned by persecution.
+- This is particularly true of the way the parable of the sower is interpreted in Mark and Matthew, Luke's "time of testing" being replaced with "persecution on account of the word."
+- Rom. 8:35: "Shall tribulation or distress or persecution...[separate us from the love of Christ]?"
+- Acts 14:22: "strengthening the souls of the disciples, encouraging them to continue in the faith and saying that through many tribulations we must enter the kingdom of God"
+
+The Decian Persecution and Mass Apostasy In 250-251 the Emperor Decius demanded members of the population prove their loyalty to the traditional religion by offering a publicly supervised sacrifice and receiving a certificate to show they had sacrificed (see NE 214-215; for the text of these see John R. Knipfing, "The Libelli of the Decian Persecution," Harvard Theological Review 16:4 [1923]: 345-390).
+- Those who refused and stood fast as witnesses to the faith (martus [from which we get the word martyr]="witness") were executed.
+- Large numbers of Christians either sacrificed or, through bribery, managed to get forged certificates saying they had sacrificed (f. Cyprian in NE 216-217).
+
+The fact that people tended to live in one place for much of their lives meant that
+- their lives and commitments were known to other people in the community (cf. "have sacrificed all my life" in these documents).
+- that the sacrifice had to be made locally under the supervision of local officials meant that there was no place to hide and no way to defer the choice of confessing and dying or sacrificing and renouncing the faith. Note also the presence of families in these documents and
+- the concern people had about their loved ones being killed or left destitute (cf. Cyprian's rather cynical view in NE 215-216)
+- the difficulties arising from mixed marriage, where the Christian partner must have felt especially pressured and conflicted (see NE 21).
+
+In this and other official persecutions of the third and early fourth centuries, officials visited the bishops and presbyters and demanded they hand over all their copies of the Christian Scriptures.
+- Some clergy resisted and were imprisoned and/or executed.
+- Others handed over worn out copies of the Scriptures that were no longer in use or even books other than the Scriptures (heretical writings or medical treatises).
+
+- Some handed over the only copies of the Scriptures that their local church possessed. Clergy who handed over the Scriptures (traditores) were often censured by the Church and could be deposed from office, made to do penance or even excommunicated (see Lienhard, Ministry, 136-140).
+
+The Controversy over Restoring the Lapsed: Phase #1 Could persons who had failed morally and spiritually during times of persecution be reconciled to the Christian community and be readmitted to the Church? Different answers were given to this question. This led to bitterness, hostility and schisms (the breaking off of Christian fellowship) that were nearly as damaging to the Church as persecution and martyrdom had been.
+- "If one keeps dropping the standards and admits as regular members even people who denied the faith and sacrificed to other gods, is one still in the faith? Is one still in the Church described in the Holy Scriptures?" (a) Some people thought that those who had failed and lapsed had shown their true character and lack of real commitment and should not be readmitted to the communion of the Church. • For the biblical background of this idea, see Heb. 6:4-8; Mt. 26:14-15,49; 27:1-5 (Judas); Acts 5:1-11 (Ananias and Sapphira); and the apostles' remarks on false teachers in 1 Tim. 1:19-20; Tit. 1:15-16; 2 Pet. 2:1-4; Jude 4.8-11. • For examples, see Cyprian's account of the Novatianists in NE 227, Marcian in NE 234 and Hippolytus in NE 151 ("had even by us been formally ejected from the Church"). (b) Some thought that the confessors, i.e. those who had suffered for the faith (whether ordained or unordained) could grant forgiveness to those who had given up the faith under persecution but were repentant and wanted to be reconciled to the Church and be able once again to receive communion (see NE 40 and Seeds of Life, 112). • For the biblical background concerning the restoration of those who have fallen away from the faith, see Gal. 6:1 and compare the example of Peter’s denial in Mt. 26:74 and Peter’s return to Christ in Jn. 21:7,15-19 and note Paul’s advice concerning the immoral brother in 1 Cor. 5:1-5 (and 2 Cor. 2:5-11?). • Note also the role this gave the confessors (even as laypeople) to lead the community and order the affairs of the church. • For the Spirit as filling and directing those who confess the faith under persecution, see Mt. 10:19-20. Recognizing such persons as Spirit-led was therefore felt to be reasonable and they were respected by the church and could even sit with the elders in the church service. Note also the ease with which a confessor could be formally recognized as a leader of a congregation in Lienhard, Ministry, 132-133. That "binding and loosing" (reconciliation of penitents) should be performed by such persons was therefore not surprising, nor was it remarkable to see them follow this up by writing letters confirming reconciliation (libelli pacis, "little books of peace"). (c) Others thought if there was to be a uniform policy and careful pastoral judgments made about whom to readmit to the communion of the Church, only the bishop, who exercised pastoral oversight over the region and had been appointed under the guidance
+
+of other bishops, should make these decisions (cf. Cyprian in NE 217-219 and Callistus in NE 151-152). • This appears to have been the way the Church, at least in North Africa and Rome, had previously handled pastorally-supervised penance for people who had committed sins with serious public consequences (sexual immorality, murder, gross abuses of ecclesiastical power); see Origen in NE 210 and note that those restored were not eligible for ecclesiastical office; so NE 231, 236-237, 313. • Essentially the penitent had to do public acts to show repentance for a period of time and became a catechumen again, leaving the service at the same time, being subject to a period of testing and not receiving the Lord's Supper (communion) unless they were on the verge of death.
+- The penitent was then formally received back into the church through laying on of hands and prayer by the bishop (not rebaptism) and able to receive communion again (see Cyprian in NE 220). • Sometimes, however, the bishop had lost credibility during the persecutions due to having fled or gone into hiding, while the confessors had remained and suffered; the bishop therefore had to some extent lost his authority and ability to represent the community; these functions had instead passed to the confessors. • Sometimes the confessors supported a rigorist leader's claim to the office of bishop (e.g. Novatian in Rome) and refused to recognize the ordination or authority of a person claiming the office of bishop who had a more relaxed policy about readmitting people to communion (e.g. Cornelius).
+- Once these groups separated from each other and broke communion with each other, the rigorist group sometimes claimed that it was the one and only true Church, within which alone salvation could be found and whose baptism alone was true baptism.
+
+The Controversy over the Lapsed: Phase #2 The argument over how to deal with people who had lapsed during persecution thus quickly turned into a different question about who really was the true church. There was, in other words, a division between the broader church and rigorist schismatic groups, who say that the broader church is no church at all. Since both groups have doubts about each other, have a separate church structure and perform separate baptisms, what happens when people try to switch from the schismatic group to the broader church (or vice-versa) how should they be received? As Christians or not? As baptized or not? This turned into a broader debate about how people baptized in heretical or schismatic groups should be admitted to the Church. • Did they people baptized in a heretical or schismatic group need to be rebaptized when the entered the (orthodox/universal) Church?
+- The answer to the question about baptism depends upon a prior question about who is the Church: Are heretical and schismatic groups to be regarded as deviant parts of the Church or are they not part of the Church at all?
+
+ Is the baptism performed by heretical and schismatic groups to be treated as valid or as invalid (if the latter, then persons from these groups must be rebaptized when they enter the Church)?  If these groups are not are not part of the Church, can they offer a valid baptism? Or does baptism belong to the Church so that it can only be administered within the Church alone (and never validly by heretical or schismatic groups). Rigorist groups (e.g. the Novatianists): No, heretical and schismatic groups are not part of the Church and cannot administer a baptism valid in the Church, so people baptized outside the Church need to be rebaptized. Firmillian (Cappadocia) and Cyprian (North Africa) (Perhaps also Callistus of Rome in NE NE 152): There is some truth in what the rigorists are saying. The apostles taught that there was only one Lord, one faith and one baptism offered within the one Body of Christ, so there clearly cannot be different church that have nothing to do with each other and have competing baptisms. There is only one Church and one baptism.
+- Heretical and schismatic groups are not part of the Church and heretical and schismatic groups cannot administer a baptism valid in the Church, so people baptized outside the Church need to be rebaptized.
+- The rigorists, of course, are wrong to think they are that one Church; we (the broader church) are the one and only true church and we alone offer the one true baptism (cf. Cyprian in NE 237-240), so the people from the rigorist sects must be baptized when they return to us, even if previously baptized within their sect. vs. Stephen of Rome and the View Generally Accepted Later:
+- It is Christ who baptizes.
+- A baptism is valid if performed in the name of the Father, Son and Holy Spirit , as Christ commanded (even if the baptism was performed in a schismatic or even an otherwise heretical group) and one need not be rebaptized into this name (see Canons of Arles [314] in NE 294,318. • Stephen of Rome had apparently held this view with respect to baptisms performed by schismatics only, not heretics. • Still a baptism performed by a heretical or schismatic group will not do one much good if one separates oneself from the broader church due to stubbornness (persisting in false teaching=heresy) and a lack of love (cutting oneself off from other Christians and despising their weaknesses=schism); see 1 Cor. 13:1-3. • Furthermore the pastoral ministry should have as its purpose to care for and build up the weak, not to draw people away from the church through schism. The pastor (bishop) should not be a sign of rivalry and disunity, but of a communion in love that aims to build up the weak.
+
+The Controversy over the Lapsed: Phase #3 Later (the Donatist controversy) the questions became whether there could be a valid bishop/pastor or a valid church, if the bishop/pastor had been ordained by someone who had handed over the Scriptures to the authorities to be burned during the time of persecution.
+
+It was thought that not only did the person who handed over the Scriptures suffer the stain of sin (which disqualified them from spiritual service), but he also passed this stain and disqualification on to all they ordained so that their people in turn would be spiritually harmed.
+- This made the efficacy of baptism, the Lord's Supper and ordination depend upon the blameless character of the pastor and the bishop who ordained him, rather than upon Christ himself. It also institutionalized the lack of love that had divided the church and made all reconciliation impossible.
