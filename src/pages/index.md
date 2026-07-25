@@ -21,5 +21,4 @@ Copyright © 2010-2018 Byard Bennett. All rights reserved. Not to be reproduced 
 
 <audio controls="" preload="none" style="width:290px;"><source src="/audio/monday_of_pentecost.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
 
-Music: Carol Eugenia Graham, Monday of Pentecost  
-[Byzantine Chant](http://web.me.com/eugeniagraham/iWeb/Liturgical%20Iconography%20and%20Byzantine%20Chant%20of%20the%20Orthodox%20Christian%20Ecclesia%20/Podcast%2011/Podcast%2011.html)
+Music: Carol Eugenia Graham, Monday of Pentecost
