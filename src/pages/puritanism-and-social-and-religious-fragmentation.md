@@ -59,7 +59,7 @@ Note the way in which both (1) and (2) cause
 Puritanism also had one further feature which accelerated the fragmentation of the old order and the attempt to institutionalize higher levels of religious commitment:
 
 - Puritanism was a militantly anti-traditional movement, rejecting those traditional ecclesiastical usages which had allowed the visible church to have a certain continuity and uniformity over time in spite of its internal diversity.
-- In rejecting the old social and religious order, the Puritans attempted to create new forms of worship (to set over against the old) which could give institutional form to a higher level of inner religious commitment on the part of select individuals.  The result was a
+- In rejecting the old social and religious order, the Puritans attempted to create new forms of worship (to set over against the old) which could give institutional form to a higher level of inner religious commitment on the part of select individuals.  The result was a
 - further fragmentation and segmentation of the Christian community and
 - a much greater emphasis upon the individual’s interior experience as a criterion for the authenticity of religious identity.
 

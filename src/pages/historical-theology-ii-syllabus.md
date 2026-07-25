@@ -238,7 +238,7 @@ Selected Secondary Literature
 - M.L. del Mastro, “Walter Hilton’s Scala perfectionis: A Circular Stairway” Leonard J. Bowman, Itinerarium, the Idea of a Journey: A Collection of Papers Given at the Fifteenth International Congress on Medieval Studies, Kalamazoo, Michigan, May 1980, Salzburg Studies in English Literature; Elizabethan & Renaissance Studies 92:9 (Salzburg: Institut für Anglistik und Amerikanistik, Universität  Salzburg, 1983) (available at Western Michigan University)
 
 22
-- David G. Kennedy, The Incarnation and Hilton’s Spirituality, Salzburg Studies in English Literature; Elizabethan & Renaissance Studies 92:3 9 (Salzburg: Institut für Anglistik und Amerikanistik, Universität  Salzburg, 1982,  1984)
+- David G. Kennedy, The Incarnation and Hilton’s Spirituality, Salzburg Studies in English Literature; Elizabethan & Renaissance Studies 92:3 9 (Salzburg: Institut für Anglistik und Amerikanistik, Universität  Salzburg, 1982,  1984)
 - Joseph Milosh, The Scale of Perfection and English Mystical Tradition (Madison, WI: Univ. of Wisconsin Press, 1966)
 - Martin Thornton, English Spirituality: An Outline of Ascetical Theology according to the English Pastoral Tradition, London: SPCK, 1963, pp. 176-200
 - Alfred C. Hughes, Walter Hilton's Direction to Contemplatives (Rome: Pontifical Gregorian University, 1962)

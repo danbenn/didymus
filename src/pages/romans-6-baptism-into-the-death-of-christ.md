@@ -26,23 +26,23 @@ Romans 6:3-6,8,11: Baptism Into the Death of Christ
 
 11So you also must consider yourselves dead to sin and alive to God in Christ Jesus.
 
-In the church today, baptism is something of a mystery.  There is not much teaching about it.  Many people doubt that baptism is necessary at all.  Others think of baptism as simply an outward action, something one must do to satisfy others’ expectations:
+In the church today, baptism is something of a mystery.  There is not much teaching about it.  Many people doubt that baptism is necessary at all.  Others think of baptism as simply an outward action, something one must do to satisfy others’ expectations:
 - “Getting baptized is something my parents expect me to do.”
 - “This girl I like won’t go out with me until I say I’m a Christian and get baptized.”
 
-Because baptism seems like an empty thing, other people want to fill it up with a meaning of their own.  They will say, “Baptism is an outward sign of my inward decision to follow Christ.”
+Because baptism seems like an empty thing, other people want to fill it up with a meaning of their own.  They will say, “Baptism is an outward sign of my inward decision to follow Christ.”
 
-But this doesn’t really answer the question about why baptism is necessary and why we have to bother with it.  If what matters is my decision, then anything else that happens (e.g. baptism with water) just comes after the fact and isn’t really as important.
+But this doesn’t really answer the question about why baptism is necessary and why we have to bother with it.  If what matters is my decision, then anything else that happens (e.g. baptism with water) just comes after the fact and isn’t really as important.
 
-In Romans 6, Paul takes a very different approach to explaining what baptism is and why it is necessary.  Baptism is God’s answer to the fact that we are no longer free.
+In Romans 6, Paul takes a very different approach to explaining what baptism is and why it is necessary.  Baptism is God’s answer to the fact that we are no longer free.
 
 In verse 6, Paul reminds us that when one leaves God and looks away from God, one’s life goes away from God and becomes captive to other things. So the person who is looking for a freedom apart from God ends up becoming a slave to other things.
 
-How can we tell if a person is a slave? A person is a slave when they cannot do as they wish; what happens will be controlled by something else. In the next chapter of Romans, Paul talks about this in greater detail:  When we are moved to act by desires and fears, we often end up doing things we did not want to do.
+How can we tell if a person is a slave? A person is a slave when they cannot do as they wish; what happens will be controlled by something else. In the next chapter of Romans, Paul talks about this in greater detail:  When we are moved to act by desires and fears, we often end up doing things we did not want to do.
 - So, for example, I tell myself that I am really a peace-lover and that I value people, but I find myself blowing up with anger and tearing down people with my words.
-- Or I tell myself that I am very wise about relationships and a very moral person, but my mind and my life fall very easily into sexual immorality.  So, having claimed that we always set the best standards for ourselves and uphold them, in truth our lives are very far from God and are presently under the control of other things.
+- Or I tell myself that I am very wise about relationships and a very moral person, but my mind and my life fall very easily into sexual immorality.  So, having claimed that we always set the best standards for ourselves and uphold them, in truth our lives are very far from God and are presently under the control of other things.
 
-When God shows us that we are not strong but weak, not wise but foolish, not close but distant, a part of us cries out, “What shall we do?” At that moment God turns our eyes to the crucified and risen Jesus. God asks us  to turn away from other things by repentance,  to place all of our hope and trust in Jesus and  to be baptized into his death.
+When God shows us that we are not strong but weak, not wise but foolish, not close but distant, a part of us cries out, “What shall we do?” At that moment God turns our eyes to the crucified and risen Jesus. God asks us  to turn away from other things by repentance,  to place all of our hope and trust in Jesus and  to be baptized into his death.
 
 In a death, old things must die. On the cross of Jesus, all looking to others for honor and approval died; Jesus died alone, abandoned, as a man without honor. On the Cross, all dreams of ease, comfort and prosperity died; everything Jesus had was taken from him, his clothes, his dignity, finally even his life.
 

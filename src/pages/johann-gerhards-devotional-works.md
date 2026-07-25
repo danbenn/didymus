@@ -24,7 +24,7 @@ Prayer: Gerhard’s prayers resemble a colloquy, i.e.
 - leads on to deeper faith and contemplation.
 
 MDM 36: prayer occurs at the intersection of the old and new natures (“at once righteous and a sinner”) in the middle of intense spiritual warfare.
-- Daily lapse into sindaily prayer
+- Daily lapse into sindaily prayer
 - The priesthood of all believers is revealed in prayer: “The one in whose heart the Holy Spirit has made his home will, as a spiritual priest, daily offer to God this incense of prayer” (MDM 22).
 
 Gerhard, Sacred Meditations (SM)--there are two ways the devil attacks the soul

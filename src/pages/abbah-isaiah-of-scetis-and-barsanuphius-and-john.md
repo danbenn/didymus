@@ -36,7 +36,7 @@ Isaiah of Sketis (d. 488) Ascetic Discourses
 
 others about it’” (AD 26). One cannot teach or counsel others about a passion that continues to control us (AD 26). Indeed how can a person “holding on to one’s own will...either find rest or else see what is lacking” (AD 8)
 - Negative judgment of others (=condemning and correcting others) are to be avoided (AD 1);
-- this is part of the renunciation of prideful self-will, which includes not only  “letting go of oneself before God” but also  “letting go of other people” and  “letting be of things in general” (see esp. AD 4; this is esp. difficult if we are accustomed to identifying our will with the will of God for our life or others’ lives—on the other hand, we can only truly grasp God’s will when we give up the equation my will=God’s will, with my will being first)
+- this is part of the renunciation of prideful self-will, which includes not only  “letting go of oneself before God” but also  “letting go of other people” and  “letting be of things in general” (see esp. AD 4; this is esp. difficult if we are accustomed to identifying our will with the will of God for our life or others’ lives—on the other hand, we can only truly grasp God’s will when we give up the equation my will=God’s will, with my will being first)
 - It is not control but obedience leading to love for God and others that matters: “The one who obeys is actually the great one” (AD 3)
 - Attached to the Monophysite cause (against the Council of Chalcedon) and the particular spirituality this encouraged (e.g. story of Peter the Iberian breaking the host at the fraction and blood spilling forth on the altar)
 

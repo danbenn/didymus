@@ -34,19 +34,19 @@ Factors Involved in Clergy Burnout Criteria from the Maslach Bur
 
 - Clarity vs. Ambiguity Concerning Pastoral Role Positive
 - A clear and persistent sense of internal call to the ministry
-- Clear sense of nature, responsibilities and boundaries of pastoral office and role expectations a sense of being called to this work by God greater self‐integration Negative
+- Clear sense of nature, responsibilities and boundaries of pastoral office and role expectations a sense of being called to this work by God greater self‐integration Negative
 - Weakly internal orientation to role/office of ministry
-- Role anomie (ambiguity/lack of clarity about role, authority and responsibility of the pastorlack clarity regarding the expectations and evaluations of role performance) or conflict of beliefs/expectations regarding clergy role/authority (clergy vs. congregation members)
-- Declining status/authority of clergy due to secularization and consumerization‐poor value congruence between pastor’s values and values of congregation members as part of the broader secular society, combined with pastor’s perception that the church is declining and losing influence and has lost its way and has an uncertain future  Accelerates perception of isolation/loneliness
-- Boundaries/responsibilities unclear –>unrealistic expectations/excessive workload/persistent criticism of pastor’s performancefeeling overworked and underappreciated, while some of their skills are overlooked and underused
+- Role anomie (ambiguity/lack of clarity about role, authority and responsibility of the pastorlack clarity regarding the expectations and evaluations of role performance) or conflict of beliefs/expectations regarding clergy role/authority (clergy vs. congregation members)
+- Declining status/authority of clergy due to secularization and consumerization‐poor value congruence between pastor’s values and values of congregation members as part of the broader secular society, combined with pastor’s perception that the church is declining and losing influence and has lost its way and has an uncertain future  Accelerates perception of isolation/loneliness
+- Boundaries/responsibilities unclear –>unrealistic expectations/excessive workload/persistent criticism of pastor’s performancefeeling overworked and underappreciated, while some of their skills are overlooked and underused
 - Perception that there are too few qualified lay leaders to take over significant leadership roles in the church (teaching, evangelization, visitation of the sick, administrative tasks, financial/budgeting/fundraising roles, etc.), so the pastor feels he/she must do them himself/herself or believes that the congregation expects him/her to do all these things.
 
 - Lack of  regular (at least annual) evaluation by sympathetic, supportive lay leadership based on agreed criteria that represent reasonable expectations of the pastor and are largely continuous with the expectations stated when the pastor was first employed.
 
-- Emotional Ability to Differentiate Self from Clergy Role in a Healthy Way (Especially ability to distinguish between  goal setting with reference to one’s congregational ministries and  goal setting in one’s personal life)
+- Emotional Ability to Differentiate Self from Clergy Role in a Healthy Way (Especially ability to distinguish between  goal setting with reference to one’s congregational ministries and  goal setting in one’s personal life)
 - One is more than what one does
 - One has intrinsic value apart from other’s evaluations of one’s performance
-- One can  more easily value and cope with a collaborative style of planning, leadership and conflict management (leading to lowered perceptions of role overload and ambiguity, which are important contributors to burnout)  have a greater openness to change and more appropriate styles of conflict management (avoiding more destructive forms of interpersonal conflict)
+- One can  more easily value and cope with a collaborative style of planning, leadership and conflict management (leading to lowered perceptions of role overload and ambiguity, which are important contributors to burnout)  have a greater openness to change and more appropriate styles of conflict management (avoiding more destructive forms of interpersonal conflict)
 
 - The Way an Individual Pastor’s Personality Fits with Their Situation
 - Burnout has less to do with external factors (congregation size, congregation growth, congregation history, etc.) than with the individual pastor’s ability to process, respond to and cope with these individual external factors.
@@ -54,13 +54,13 @@ Factors Involved in Clergy Burnout Criteria from the Maslach Bur
 - Nature of Coping Strategies Routinely Employed Negative
 - Self‐isolation and concealment of struggles/faults/mistakes
 - Decreased attention to self‐care (lack of exercise, unhealthy eating patterns, weight gain, discontinuing Bible reading and prayer apart from what is strictly required by one’s professional responsibilities)
-- Negative reactivity: Alternating between venting, disengagement and self‐blame  This pattern leads on to greater emotional exhaustion and depersonalization (overwhelmed by the perceived demands of othersemotional cutoff,
+- Negative reactivity: Alternating between venting, disengagement and self‐blame  This pattern leads on to greater emotional exhaustion and depersonalization (overwhelmed by the perceived demands of othersemotional cutoff,
 
 increasingly impersonal treatment of parishioners, often accompanied by thoughts of leaving the congregation/ministry altogether)
 - Lack of access to formal support mechanisms (e.g. access to affordable, confidential counseling and spiritual direction)
 
 Positive
-- Ability to positively reframe disappointments/failures in light of God’s broader purposes, which makes it possible to acknowledge and accept them in light of the Gospel  This presupposes a regular, substantive and continuing devotional reading of Scripture and time for prayer apart from sermon preparation and one’s clerical responsibilities (50‐60 minutes a day or more).
+- Ability to positively reframe disappointments/failures in light of God’s broader purposes, which makes it possible to acknowledge and accept them in light of the Gospel  This presupposes a regular, substantive and continuing devotional reading of Scripture and time for prayer apart from sermon preparation and one’s clerical responsibilities (50‐60 minutes a day or more).
 - Greater emotional investment in spouse/marriage
 
 - Chronological Age (Not Years in Ministry) is Negatively Correlated with the Emotional Exhaustion and Depersonalization Subscales of Burnout (Byrne 1991, McCarthy 1985, van der  Ploeg et al. 1990, Randall, 2007)

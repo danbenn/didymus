@@ -14,7 +14,7 @@ title: 'Toward Uniformity: Charismatic and Institutional Authority in the Early 
 
 ### Charismatic And Institutional Authority In The Early Church
 
-Institutionalization: The Universalization of Faith and Practice &The Formalization of Patterns of Authority within the Church CharismaticInstitutional LocalPractices are standardized across broader geographical areas
+Institutionalization: The Universalization of Faith and Practice &The Formalization of Patterns of Authority within the Church CharismaticInstitutional LocalPractices are standardized across broader geographical areas
 
 In the second century we see a variety of local practices in use in different places with different assumptions being made about how and why certain things should be said and done. As people moved between different regions and the Christian movement expanded and developed regional administrative/regulatory structures (bishops and local councils) to try to maintain a semblance of order and work through problems that emerged, local usages were increasingly seen as a problem. For example, if you were a merchant and traveled extensively, you would soon discover that Easter was celebrated at different times in different places. You could stop in Jerusalem and celebrate Easter, then travel to Antioch in time to celebrate Easter there, then stop over in Ephesus and find that Easter was being celebrated there, due to the different ways of calculating when Easter should be held according to the lunar calendar or some other system in us. In what sense then could these different Christian communities be regarded as united in faith and having an agreed basis for common practice?
 

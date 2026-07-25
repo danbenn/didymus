@@ -30,19 +30,19 @@ Question: How Are Faith and Reason Related?: Three Different Responses As one re
 - one’s understanding of faith/Christian life and
 - one’s understanding of what is to be a human being, i.e. what it means to live in and speak to the broader world and to engage in disciplined enquiry concerning what is true.
 
-(1) FaithGrowth in Faith and Holiness The mysteries of the Christian faith (e.g. what the Church confesses concerning God’s nature and will) cannot be analyzed or proved by logical
+(1) FaithGrowth in Faith and Holiness The mysteries of the Christian faith (e.g. what the Church confesses concerning God’s nature and will) cannot be analyzed or proved by logical
 
 argument.  Such matters transcend the order that can be rationally observed in created things; they need not conform to the latter.
 - A view sometimes found in monastic circles
 
-(2) Use of ReasonUnderstandingFaithRational Enquiry into Matters of Faith Reason is a creation of God; since human beings are made in the image of God and given reasoning powers, they should use them.
+(2) Use of ReasonUnderstandingFaithRational Enquiry into Matters of Faith Reason is a creation of God; since human beings are made in the image of God and given reasoning powers, they should use them.
 - From the very beginning, reason must be used to find the meaning of propositions (statements of faith). Without reason, one could not even grasp the sense of statements concerning what is to be believed.
 - Use of the quaestio method in theology—two truths of the faith are set alongside each other, one being an affirmation and one being a negation contradicting it, and each of these two seem to have arguments in favor of their truth.  E.g.
 - “There exists original sin, or a sin which, proceeding from Adam’s sin, is present as a true sin in all men, belonging properly to one, yet spread to others by way of propagation” (with the prooftexts from Ps. 51 and Rom. 5 being provided).
 - “But on the other hand it says in Ez. 18:20, ‘The soul which has sinned, it [alone] shall die; the son shall not bear the iniquity of the father.’ From this, it seems that the sin of the father is not passed on to the son. Therefore original sin is excluded.”
 - A view sometimes found in the emerging cathedral schools (Abelard; 1079-1142), representing the beginnings of the scholastic approach to theology
 
-(3) FaithReverent Inquiry concerning Matters of Faith Rational investigation of the mysteries of faith is acceptable, provided that reason is ordered within and under faith (a reserved retreat from the nascent scholasticism).
+(3) FaithReverent Inquiry concerning Matters of Faith Rational investigation of the mysteries of faith is acceptable, provided that reason is ordered within and under faith (a reserved retreat from the nascent scholasticism).
 - Reason is seen as a servant or handmaid (ancilla) of faith (Peter Damian [Pietro Damiani]; 1007-1072)
 - Reason is not, however, treated as an independent principle.
 
@@ -55,7 +55,7 @@ Faith and Reason in Anselm Anselm and Monastic Theology of Faith and Reason Anse
 - to understand the Scriptures and the faith of the Church and
 - to understand, in regard to what is taught there about God and the world, how these matters are so.
 
-Faith/Experience of the TruthEnquiryUnderstanding
+Faith/Experience of the TruthEnquiryUnderstanding
 
 One must receive by faith the truths of revelation taught by the Church (which rests upon its own grounds and needs no proof) but reason has the duty afterwards to examine what is believed (inquiring into how and why matters are so), it being presupposed that reason and revelation cannot contradict each other:
 - “I do not try, Lord, to attain your lofty heights, because my understanding is in no way equal to it.” But I do desire to understand your truth a little, that truth that my heart believes and loves. For I do not seek to understand so that I may believe; but I believe so that I may understand. For I believe this also, that ‘unless I believe, I shall not understand’ [Is. vii.9].” (Proslogion 1; ET Charlesworth, 115)
@@ -64,7 +64,7 @@ One must receive by faith the truths of revelation taught by the Church (which r
 The truth must be experienced before it can be understood.
 - Anselm’s “faith seeking understanding” (fides quaerens intellectum) is a development of Augustine’s account of understanding the faith (intellectus fidei): “Unless you believe, you will not understand” (Nisi credideritis non intelligetis).
 
-FaithUnderstandingLove of God “I pray, O God, that I may know You and love You, so that I may rejoice in You” (Proslogion 26; ET Charlesworth, 153)
+FaithUnderstandingLove of God “I pray, O God, that I may know You and love You, so that I may rejoice in You” (Proslogion 26; ET Charlesworth, 153)
 
 Faith that moves toward understanding is a tending toward God (tendere in deum) that finds its goal in love of God (even though, in knowing and loving God, there may be matters into which the intellect is unable to gain understanding, e.g. the mystery of the Trinity, the confession of which is still necessary to salvation).
 - “I recognize and give you thanks, O Lord, that you have created in me this image of you [i.e. reason that aims at understanding], so that I may remember you, think of you and love you. But this image has been so worn away by the withering action of my vices, so obscured by the smoke of my sins that it cannot do what it was
@@ -120,11 +120,11 @@ Anselm: There exists in the human mind a conception of a "being than which no gr
 - the greatest being logically conceivable by anyone and
 - has all great-making properties (goodness=absence of non-moral restrictions=capacity for forms of existence and action unlimited by any non- moral constraints).
 - This (“all great-making powers”) would also include being
-- a necessary (rather than a contingent) being  since it would be a better (superior) condition to remain in existence without dependence upon others (existing from and through oneself) than to be in existence only briefly or intermittently due to one’s dependence upon others
+- a necessary (rather than a contingent) being  since it would be a better (superior) condition to remain in existence without dependence upon others (existing from and through oneself) than to be in existence only briefly or intermittently due to one’s dependence upon others
 - that is capable of a maximal state (else infinite regress would be possible), thus there is no more to have beyond what God has. God is therefore the Supreme Good (summum bonum). In other words, being what He is, He has every perfection there is to have in the highest degree.
 
 This conception (of the BTWNGCBT) will exist even in the mind of the atheist (the “fool” mentioned in Psalms 14 and 53, who possesses reason but wills not to live in accord with right reason). • The fact that this conception exists in the atheist's mind is the reason why the atheist can understand what is being said, even though he/she fails to understand that this is a conception of something that actually exists. • Belief in God (not atheism or agnosticism) is therefore the default position of the human mind, i.e. ought to be self-evident to those able to make proper use of their capacity for rational thought. Thus, the existence of God should be self-evident not only for Christians (as Barth interprets Anselm) but for any human being with the ability to think (given the BTWNGCBT definition, the claim that God does not exist is rationally incoherent).
-- Note, however, that the atheist  need not know anything about God other than that He is BTWNGCBT (to know more would require revelation) and  may not be moved from recognizing such a being to rightly understanding and trusting/worshipping Him.
+- Note, however, that the atheist  need not know anything about God other than that He is BTWNGCBT (to know more would require revelation) and  may not be moved from recognizing such a being to rightly understanding and trusting/worshipping Him.
 
 Possession of Actual Existence: This BTWNGCBT can, by definition, not exist in the mind alone, because if it existed only in the mind we could imagine a way in which this being could possess a further (additional) excellence of actually existing (which it does not currently possess); if this were ever the case, however, the thing in question could hardly be a BTWNGCBT, since we could conceive of a superior being which possessed the excellence in question. (A greater being could be conceived which existed not only in thought [in intellectu] but also in reality [in re] and only it would be the BTWNGCBT.) Furthermore, the BTWNGCBT cannot be thought not to exist (at least not if one understands what one is saying; see Proslogion 22), because whatever one imagined not to exist would not be the BTWNCGBT, since, if we imagined it not to exist, it would lack the excellence of actually existence and therefore by definition could not be the BTWNCBT. (In other words, the kind of thing it is [unique] requires it to exist.)
 - Possession of the Good: Because the BTWNGCBT possesses all excellences to the highest (maximal) degree it is also reasonable to think that the BTWNCBT is the source of all good through which every good (partial, less complete/perfect goods) come to exist in the created realm.

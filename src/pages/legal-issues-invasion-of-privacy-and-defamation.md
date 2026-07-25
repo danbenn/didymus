@@ -17,7 +17,7 @@ title: 'Legal Issues: Invasion of Privacy and Defamation'
 Invasion of Privacy To disclose publicly private facts or information about another person (without that person’s consent) that an ordinary person would find objectionable or offensive if made public.
 - Whether the allegations are true or false is irrelevant
 - The complainant can seek damages for emotional injury
-- Complaints of this type, seeking damages for emotional injury, often occur in situations involving church discipline, particularly  where the disclosure could or does lead to dismissal from office or  where church discipline against an individual has continued after the person subject to discipline has withdrawn his/her consent to membership. (From the perspective of the law, the church is a voluntary association, in which persons are bound together only by the extension of consent to membership.)
+- Complaints of this type, seeking damages for emotional injury, often occur in situations involving church discipline, particularly  where the disclosure could or does lead to dismissal from office or  where church discipline against an individual has continued after the person subject to discipline has withdrawn his/her consent to membership. (From the perspective of the law, the church is a voluntary association, in which persons are bound together only by the extension of consent to membership.)
 - See the Marian Guinn vs. Church of Christ of Collinsville case study in Batten, Ethics in the Sanctuary, pp. 21-22,61-65 (cf. also the discussion on pp. 68-73).
 - The facts or information in question cannot be a matter of public record (i.e., criminal conviction[s], divorce, marriage, birth, death, driving records, lawsuits, ownership, bankruptcies, etc.)
 

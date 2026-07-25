@@ -31,11 +31,11 @@ The Necessary Connection Between Faith and Works (Seen as the Fruits of Faith):
 Contrition
 - To have true repentance,
 - one must understand his or her sins and that the Word of God stands against these sins in the Law
-- one must turn oneself from  self-love to spiritual life (p. 42) through  repentance  sorrow  mortification and crucifixion of the flesh. Repentant sorrow, which extinguishes self-love, is a fruit of the death of Christ Living in Christ (and he in us) through faith is a fruit of Christ’s resurrection, which Scripture externally describes and the Spirit inwardly effects (p. 51) by means of “a spark of natural life” preserved in man after the fall (“faith was sowed in man as a seed of God”)
+- one must turn oneself from  self-love to spiritual life (p. 42) through  repentance  sorrow  mortification and crucifixion of the flesh. Repentant sorrow, which extinguishes self-love, is a fruit of the death of Christ Living in Christ (and he in us) through faith is a fruit of Christ’s resurrection, which Scripture externally describes and the Spirit inwardly effects (p. 51) by means of “a spark of natural life” preserved in man after the fall (“faith was sowed in man as a seed of God”)
 - “true  repentance must proceed from the innermost source of the heart” (p. 21)
 - “True, divine regret must precede repentance. By it, the heart is broken and the flesh is crucified”
 - sorrow for sin comes through the Law and meditation upon Christ’s suffering (p. 55)
-- mortification=”the leaving of works that bring about death” (p. 55)=to “hate oneself, deny oneself and renounce all that one has” (p. 24)  mortification (=a decisive break with sin) is a prerequisite to saving faith/justification; a decisive break with sin
+- mortification=”the leaving of works that bring about death” (p. 55)=to “hate oneself, deny oneself and renounce all that one has” (p. 24)  mortification (=a decisive break with sin) is a prerequisite to saving faith/justification; a decisive break with sin
 - “how can you belong to Christ since you do not mortify the flesh” (p. 58)
 - “God’s word and sacraments…do not help any unrepentant person who does not have a continually sorrowful, faithful heart. His resurrection is of no use to the person who will not arise with Christ from his sins.”
 - Christ in life vs. Antichrist (p. 62)
@@ -44,7 +44,7 @@ Contrition
 - “Although we are not able in our present weakness to come to perfection yet we must strive after it. We must weep and
 
 hope in our hearts that Christ and not Satan will live in us and have his reign in us. Insofar as the old man dies, Christ will live in us” (p. 66)
-- “The person who does properly understand Christ as a Savior and Sanctifier and an Example of Life must know that he is pure love, meekness, patience and humility. This love and meekness of Christ he must have in himself; indeed he must discover it in his heart and love it” (p. 68)  mortification is also a lifelong process of sanctification; cf. p. 58: true faith renews man and mortifies the sins in man
+- “The person who does properly understand Christ as a Savior and Sanctifier and an Example of Life must know that he is pure love, meekness, patience and humility. This love and meekness of Christ he must have in himself; indeed he must discover it in his heart and love it” (p. 68)  mortification is also a lifelong process of sanctification; cf. p. 58: true faith renews man and mortifies the sins in man
 - “Love makes all things easy. He who does not properly love Christ does everything with hesitation and unwillingly and doing good is difficult for him” (p. 74)
 
 Conversion and True Faith

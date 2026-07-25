@@ -35,7 +35,7 @@ Leadership in the early church was organized around the working of the Spirit, w
 - supernatural spiritual gifts in the members of the church;
 - various supernatural teaching gifts, which
 - were discerned by the church and
-- became the basis for a shared (collegial) ministry based on common prayer, which  built up the whole body of the church and  helped members of the body grow into maturity, so that they could exercise their own spiritual gifts wisely and with charity.
+- became the basis for a shared (collegial) ministry based on common prayer, which  built up the whole body of the church and  helped members of the body grow into maturity, so that they could exercise their own spiritual gifts wisely and with charity.
 
 - The early Christians assumed that the local church must have a plural ministry in which all believers have a part and which is based upon a diversity of spiritual gifts that need to be discerned and nurtured.
 
@@ -48,7 +48,7 @@ The NT thus presupposes a model of leadership quite different from that found in
 For the early Christian communities,
 - the only person who had this superior status of being a mediator and bringing about peace between man and God was Jesus.
 - The Spirit poured out by Jesus after his Resurrection
-- created some new, very different human leadership structures which  were based on plural leadership (not the leadership of a single religious specialist) and  did not depend upon
+- created some new, very different human leadership structures which  were based on plural leadership (not the leadership of a single religious specialist) and  did not depend upon
 - specialized rituals or techniques or
 - rigidly hierarchical structures (i.e. priest vs. client relationships).
 

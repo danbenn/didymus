@@ -16,11 +16,11 @@ title: Self-Examination (The Examen)
 
 Questions for Self-Examination
 
-What do I love?  What do I long for?  What do I think I need?
+What do I love?  What do I long for?  What do I think I need?
 
 Attachment & Fantasy as Directing Our Lives
 - What do I feel the strongest attachment to?
-- Where does much of my energy go?  What are your plans, agendas, strategies, and intentions primarily designed to accomplish?  On what do I set my hopes?  What hopes are you working toward or building your life around?
+- Where does much of my energy go?  What are your plans, agendas, strategies, and intentions primarily designed to accomplish?  On what do I set my hopes?  What hopes are you working toward or building your life around?
 - What do you think about most often?
 - What do you talk about?  What occupies your conversations with others?
 - What do you pray for?
@@ -34,9 +34,9 @@ Entitlement: If Necessary, I Will Sin (Turn Away from God) to Get This
 
 Finding Security in Other People/Things/Activities Whose desires do I obey? Who am I concerned to please? What do I fear?
 - What do you desperately hope will last in your life?  What do you feel must always be there?  What can’t you live without?
-- What creates the greatest fear in me, when I think I might not be able to have (or keep having) the thing I want/need?  Whom must you please?  Whose opinion counts?  From whom do you desire approval or fear rejection?
+- What creates the greatest fear in me, when I think I might not be able to have (or keep having) the thing I want/need?  Whom must you please?  Whose opinion counts?  From whom do you desire approval or fear rejection?
 - Whose performance matters to you?
-- What would bring you the greatest pleasure?  The greatest misery? Why?  How do you define success or failure in any given situation?
-- Who or what do you trust?  What makes you feel rich, secure, and prosperous?
+- What would bring you the greatest pleasure?  The greatest misery? Why?  How do you define success or failure in any given situation?
+- Who or what do you trust?  What makes you feel rich, secure, and prosperous?
 
- In what situations do you feel pressured or tense?  When do you feel confident or relaxed?  Where do you find refuge, safety, comfort, and escape?  When you are pressured, where do you turn?  When you are fearful, discouraged, and upset, where do you run? What do you seek to escape from? What do you escape to?
+ In what situations do you feel pressured or tense?  When do you feel confident or relaxed?  Where do you find refuge, safety, comfort, and escape?  When you are pressured, where do you turn?  When you are fearful, discouraged, and upset, where do you run? What do you seek to escape from? What do you escape to?

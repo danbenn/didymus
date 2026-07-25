@@ -39,7 +39,7 @@ i. Instead the relationship with the other person is in some sense an end in its
 - maintaining confidences (i.e. not disclosing to others sensitive or damaging personal information about the friend or confidante without his or her express permission)
 - doing these things not only when it is convenient but in situations of adversity when this is inconvenient and/or unpopular.
 
-Trust is something that must be built up over time, but can easily be subverted (and relationships undermined and destroyed) when any one of these three features are compromised, i.e. by  deception and/or hidden motives;  using the other person to obtain some benefit or advantage for oneself;  disloyalty, broken promises or revealing of confidential information, in which case a perception of integrity and trustworthiness is replaced by suspicion and mistrust.
+Trust is something that must be built up over time, but can easily be subverted (and relationships undermined and destroyed) when any one of these three features are compromised, i.e. by  deception and/or hidden motives;  using the other person to obtain some benefit or advantage for oneself;  disloyalty, broken promises or revealing of confidential information, in which case a perception of integrity and trustworthiness is replaced by suspicion and mistrust.
 
 Trust is often undermined in situations where there are potential conflicts of interest at work in one’s promotion of a particular position and/or one’s recruitment of others to a particular group. This can be particularly serious when there is confusion (including intentional confusion) of the boundaries separating
 - friendship (as a reciprocal exchange between two people which is not governed by largely self-interested motives) from

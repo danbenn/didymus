@@ -30,20 +30,20 @@ This discovery calls forth from us desire for God and worship of God (cf. Retr. 
 - The doxological purpose of the work can be seen in the opening of the work (1.1.1, p. 39):
 - It opens with a prayer (Magnus es, domine="Great are you, O Lord"; cf. 1.15.24 “Hear my prayer, Lord”), as Augustine himself observes in the Retractions.
 - It aims to turn the reader's attention to God and, from the outset, seeks to emphasize the distinction between ♣ God (unrestricted wisdom and power) and ♣ creatures (sin and mortality)(compare I.6.9; p. 44).
-- It emphasizes that God in his grace has previously supplied what is required for us to know and worship Him § 1.1.1; p. 39: "You arouse us so that praising you may bring us joy, because you have made us and drawn us to yourself...My faith calls upon you, Lord, this faith which is your gift to me..."
-- emphasizes God alone as the good which we seek  and in whom we find our completion, our fulfillment and our happiness § 1.1.1; p. 39: "our heart is unquiet until it rests in you" § 1.5.5; pp. 41-42: "that you would come into my heart and inebriate it, enabling me to...embrace you, my only good...Is not the failure to love you woe in itself? Alas for me!"
+- It emphasizes that God in his grace has previously supplied what is required for us to know and worship Him § 1.1.1; p. 39: "You arouse us so that praising you may bring us joy, because you have made us and drawn us to yourself...My faith calls upon you, Lord, this faith which is your gift to me..."
+- emphasizes God alone as the good which we seek  and in whom we find our completion, our fulfillment and our happiness § 1.1.1; p. 39: "our heart is unquiet until it rests in you" § 1.5.5; pp. 41-42: "that you would come into my heart and inebriate it, enabling me to...embrace you, my only good...Is not the failure to love you woe in itself? Alas for me!"
 
-§ 1.13.21; p. 53: "O God, you are the light of my heart, bread for the inward mouth of my soul"
+§ 1.13.21; p. 53: "O God, you are the light of my heart, bread for the inward mouth of my soul"
 - The centrality of Augustine's conversion (not only an intellectual conversion [bk. 7] but also a moral conversion to the service of God [bk. 8]) was particularly novel and was to be extraordinarily influential on later writers.
 - There is a foretaste of this already in Bk. 1, e.g. I.5.6; p. 42: "say to my soul, I am your salvation. Let me run toward this voice and seize hold of you."
 
 Books 1 and 2 follow Augustine through the conventional and accepted divisions of early life (together with the qualities or actions which are to be praised or blamed at each stage of the person's life)
-- infancy (infantia=being unable to speak) § what is to be praised or blamed: indoles (inborn quality; usually more than just a disposition, but rather those natural abilities that rise to the level of talents or genius)
+- infancy (infantia=being unable to speak) § what is to be praised or blamed: indoles (inborn quality; usually more than just a disposition, but rather those natural abilities that rise to the level of talents or genius)
 
-- boyhood (pueritia=from beginning to speak up until the seventeenth year) § what is to be praised or blamed: disciplina (one's training and what is reveals concerning one's customs and habits)
+- boyhood (pueritia=from beginning to speak up until the seventeenth year) § what is to be praised or blamed: disciplina (one's training and what is reveals concerning one's customs and habits)
 
 - adolescence (adulescens=from the fifteenth or seventeenth year up until at least 25 years of age, in these later years overlapping with juventus),
-- youth (juventus=20-40 years old), with a certain amount of speculative commentary on the nature of these stages and a description of the sins to which he found himself liable. § what is to be praised and blamed in these later ages: opera, id est factorum dictorumque contextum (what they do, i.e. the connection of their words and deeds, including their exploits and achievements)
+- youth (juventus=20-40 years old), with a certain amount of speculative commentary on the nature of these stages and a description of the sins to which he found himself liable. § what is to be praised and blamed in these later ages: opera, id est factorum dictorumque contextum (what they do, i.e. the connection of their words and deeds, including their exploits and achievements)
 
 Book I opens with an introduction and a meditation upon how we can reconcile a. God's transcendence of the limits which created things have and b. our ordinary ways of talking about God being present and acting (1.4.4; p. 41: "most hidden yet intimately present...you regret without sadness, you grow angry yet remain tranquil...you are never in need yet you rejoice in your gains, never avaricious yet you demand profits")
 

@@ -25,7 +25,7 @@ Prayer Before Studying Theology: Almighty Father, whose blessed Son was revealed
 
 Last week, we looked at Jesus being the unique mediator between God and humanity, • Being like God and
 - performing various functions only God could perform
-- being  given various titles that could only be given to God in the OT and  qualitatively different from the angels
+- being  given various titles that could only be given to God in the OT and  qualitatively different from the angels
 
 Background: Justin Martyr, Origen and Early Logos Theology • God's Son/Logos as the intermediate principle that is the means by which God normally acts in the world.
 
@@ -45,7 +45,7 @@ Note that the Word/Reason's procession from God can be included within the Gnost
 
 Tertullian • The idea of oijkonomiva (the economy of salvation)=the divine administration of the world
 - i.e. God acts over time in a variety of different ways which reflect the different modes in which God governs and redeems the created world.
-- Thus God  acts in one way when he reveals himself in the Old Testament and  in another way when he reveals himself in Jesus Christ in the New Testament.
+- Thus God  acts in one way when he reveals himself in the Old Testament and  in another way when he reveals himself in Jesus Christ in the New Testament.
 - There is therefore one God who is a single being but reveals himself in three different modes--Father, Son and Holy Spirit--when he acts in the world and upon human beings.
 
 Note that nothing here is said about what God is or is not like when he is by himself; the economy may only have to do with how God acts toward the world, not what he is like in himself.)
@@ -117,7 +117,7 @@ Arius condemned and deposed at a synod in Alexandria c. 318, affirmed by the Cou
 
 Council of Niceaa The Son of God is • eternally begotten of the Father
 
-- God from God  Light from Light  true God from true God
+- God from God  Light from Light  true God from true God
 - begotten not made
 - of one being (homousios =”consubstantial,” “of one substance”) with the Father The Nicene party (e.g. Athanasius) tended to see the Son as image (eikon) as being continuous with God, whereas the Arians wanted to see him separated from God by being a product of the Father's will. The two parties argued over what "Son" meant.
 
@@ -129,18 +129,18 @@ provswpon (prosopon) conventionally translated "person" but without the notion o
 uJpovstasi~ (hypostasis) refers to the actual existence of a distinct agent with an ongoing existence. • To say that the Son has an hypostasis distinct from that of the Father means that
 - although the Son has the same qualities/attributes as the Father,
 - he is not just what the Father is (otherwise he would be indistinguishable from the Father).
-- Although the Father and Son may have precisely the same qualities and share the same life, they are still distinct persons.  The two stand in different relationships to others and also have different functions.
+- Although the Father and Son may have precisely the same qualities and share the same life, they are still distinct persons.  The two stand in different relationships to others and also have different functions.
 - The Father is the source of the divine life in a way that the Son and Spirit are not.
 - The Father will therefore be the first cause and logically prior to the Son and Spirit, though not prior to them in existence (the Son is eternally begotten from the Father and the Spirit eternally proceeds from the Father).
 
 Fourth Century Trinitarian Positions (1) Homoousion Party: • The Son is from Father and of the same substance (homoousios) as the Father.
 
-- The basic position of Rome and of Alexandria after Origen.  Supporters included
+- The basic position of Rome and of Alexandria after Origen.  Supporters included
 - Athanasius and
 - the Cappadocian Fathers
 - Basil of Caesarea
 - Gregory of Nazianzus and
-- Gregory of Nyssa  Sometimes called the "neo-Nicene" party because of their support for the Nicene Creed (interpreted in the manner described above)
+- Gregory of Nyssa  Sometimes called the "neo-Nicene" party because of their support for the Nicene Creed (interpreted in the manner described above)
 
 (2) Homoiousion Party: The Son is like the Father in all things (i.e. like the Father in substance [homoiousios] and in will). • The traditional position of most Eastern bishops. • Note that the the word "like"
 - leaves room to distinguish the Father from the Son but also
@@ -151,12 +151,12 @@ Fourth Century Trinitarian Positions (1) Homoousion Party: • The Son is from F
 - later Arians, who really meant that the Son was different from the Father in substance and honor but like the Father in will (i.e. he was a creature who did what the Father wanted him to do).
 
 (4) Anomoean Party: The Son is wholly unlike the Father in substance, being a creature created by the will of the Father to do the Father's bidding. • Aëtios and Eunomius the prime movers of this party. • Eunomius:
-- Words have meanings that are distinct and constant.  The Father is "unbegotten" and  the Son is "begotten."  "Unbegotten" and "begotten" are
+- Words have meanings that are distinct and constant.  The Father is "unbegotten" and  the Son is "begotten."  "Unbegotten" and "begotten" are
 - opposites and
-- fundamentally different from one another.  The Father and the Son are therefore fundamentally different from one another (have different qualites/attributes/life/existence).
+- fundamentally different from one another.  The Father and the Son are therefore fundamentally different from one another (have different qualites/attributes/life/existence).
 
 - The Orthodox Response (Esp. Cappadocians): No.
-- Words are  imperfect ways of talking about created things and  cannot properly describe what God is like.
+- Words are  imperfect ways of talking about created things and  cannot properly describe what God is like.
 
-- Words can only  suggest some very limited points of comparison with the created things with which we are familiar, but even here
+- Words can only  suggest some very limited points of comparison with the created things with which we are familiar, but even here
 - words will mean something different when applied to God than when applied to human beings.

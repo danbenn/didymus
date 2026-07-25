@@ -36,7 +36,7 @@ understood or could pronounce correctly the words of the Latin Mass that he cele
 
 Medieval Religion: The Sacramental System The reception of the sacraments was closely related to stages of life and this provided a basic institutional frame for Christian existence:
 
-Baptism (birth)Confirmation (puberty)Confession (recognition of sin and adult responsibility)Marriage OR                                                      Extreme Unction
+Baptism (birth)Confirmation (puberty)Confession (recognition of sin and adult responsibility)Marriage OR                                                      Extreme Unction
 
 Choice of a Religious Vocation (Holy Orders)        (preparing for death)
 
@@ -68,7 +68,7 @@ The End of the Middle Ages: Social and Economic Changes and the Rise of the Rena
 With increased affluence, wider trade became possible.
 - Since the mercantile city-states had gained a certain amount of autonomy from traditional authorities, this allowed new ideas to be received and promoted.
 - In Italy, for example, many Greek exiles arrived with the collapse of the Byzantine Empire and this stimulated new interest in classical civilization and culture and in Greek philosophy.
-- Certain persons influenced by these trends argued that a renewal of learned culture was needed along lines different from the traditional scholastic theology.  This rebirth (renaissance) would occur when there was a return to the sources (ad fontes) of Western culture through an intensive study of Greek and Roman authors of the classical period.  This would lead to renewal of literature, philosophy and civic/political culture and a liberation from the constraints and relative poverty of the authoritarian ecclesiastical and political culture of the Middle Ages.
+- Certain persons influenced by these trends argued that a renewal of learned culture was needed along lines different from the traditional scholastic theology.  This rebirth (renaissance) would occur when there was a return to the sources (ad fontes) of Western culture through an intensive study of Greek and Roman authors of the classical period.  This would lead to renewal of literature, philosophy and civic/political culture and a liberation from the constraints and relative poverty of the authoritarian ecclesiastical and political culture of the Middle Ages.
 
 This renewal helped provide a concrete and independent for the emerging city- states and also provide some resources with which the dictates of the Catholic hierarchy could eventually be challenged.
 - Since the Byzantine exiles had brought Greek manuscripts of the New Testament to Italy with them, Renaissance scholars who had learned Greek could access the

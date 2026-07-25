@@ -25,7 +25,7 @@ The Divinity of the Spirit
 - The Spirit is often identified in both the OT as "the Spirit of the Lord [i.e. YHWH]" and is therefore somehow associated with YHWH without being clearly distinguished from YHWH.
 - The same usage is also found in the NT, although since "Lord" is used to indicate either YHWH/Father (as in the OT) or Jesus (cf. Acts 16:7: "the Spirit of Jesus"), some caution is needed in interpreting these passages; see for example 2 Cor. 3:17: "The Lord is the Spirit", where Lord probably=YHWH.
 - Spirit indicates the presence of God acting on and in people. More particularly:
-- In the OT prophetic literature, the giving of the Spirit is associated with renewal and the giving of new life:  Ezek. 36:26-7: A new heart also will I give you, and a new spirit will I put within you, and I will take away the stony heart out of your flesh, and I will give you a heart of flesh. And I will put my spirit within you." (cf. the giving of life in Ezek. 37:9)  Is. 44:3: "I will pour my spirit upon your seed, and my blessing upon your offspring"  Joel 2:28: "I will pour out my spirit upon all flesh  Cf.
+- In the OT prophetic literature, the giving of the Spirit is associated with renewal and the giving of new life:  Ezek. 36:26-7: A new heart also will I give you, and a new spirit will I put within you, and I will take away the stony heart out of your flesh, and I will give you a heart of flesh. And I will put my spirit within you." (cf. the giving of life in Ezek. 37:9)  Is. 44:3: "I will pour my spirit upon your seed, and my blessing upon your offspring"  Joel 2:28: "I will pour out my spirit upon all flesh  Cf.
 - new birth in Jn. 3:5: must be born of water and Spirit before can enter the kingdom of God
 - Tit. 3:5: "the washing of regeneration and renewing of the Holy Spirit"(do these have a baptismal context)
 
@@ -95,14 +95,14 @@ This reflects the fact that during the course of the fourth century it had becam
 
 Cyril of Jerusalem Cyril of Jerusalem can be viewed as a transitional figure, writing about 350 A.D., immediately prior to the controversies about the Spirit that would rage throughout the 350's and 360's.
 - As discussed in previous lecture, catecheses are lectures about basic Christian beliefs delivered to candidates for baptism.
-- Cyril is content to present the traditional (2 c.-early 4 c.) consensus about the Spirit's identity and  to discourage any further speculative enquiry (XVI.1-2,24) while  repudiating a few earlier heretical views.
+- Cyril is content to present the traditional (2 c.-early 4 c.) consensus about the Spirit's identity and  to discourage any further speculative enquiry (XVI.1-2,24) while  repudiating a few earlier heretical views.
 - Cyril's positive teaching generally follows the outline earlier laid down by Origen.
 - The Spirit's principle function is sanctification (making believers holy and strengthening them to live the Christian life).
 - On the one hand, Father, Son and Holy Spirit are regarded as a unity and held to be the source of salvation.
 - The Spirit is therefore honored together with the Father and the Son in the act of baptism.
-- On the other hand, there is a sort of relation of dependence that distinguishes the three:  "And the Father indeed gives to the Son and the Son shares with the Holy Spirit. The Father through the Son with the Holy Spirit is the Giver of all grace; the gifts of the Father are none other than those of the Son and those of the Holy Spirit; for there is one salvation, one power, one faith; one God the Father, one Lord, His Only-begotten Son, one Holy Spirit, the Paraclete" (XVI.24)
+- On the other hand, there is a sort of relation of dependence that distinguishes the three:  "And the Father indeed gives to the Son and the Son shares with the Holy Spirit. The Father through the Son with the Holy Spirit is the Giver of all grace; the gifts of the Father are none other than those of the Son and those of the Holy Spirit; for there is one salvation, one power, one faith; one God the Father, one Lord, His Only-begotten Son, one Holy Spirit, the Paraclete" (XVI.24)
 
- Still in XVI.3, Cyril (following Origen) can still conceive of the Spirit as having been brought about or made by God through Christ.
+ Still in XVI.3, Cyril (following Origen) can still conceive of the Spirit as having been brought about or made by God through Christ.
 
 This kind of possible contradiction had to be dealt with at some point; controversies about the Spirit's identity that had emerged by the end of 350's forced the issue.
 

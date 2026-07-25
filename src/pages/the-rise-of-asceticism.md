@@ -33,9 +33,9 @@ The Call of the Gospel to Renunciation and Radical Discipleship
 The Meaning and Nature of Askesis Askesis is a Greek word meaning “practice,” i.e. some training regime that helps one to attain a goal.
 - Askesis is used already in the first century B.C. to denote the training of mind and body to attain a higher way of life (see, e.g. Musonius Rufus on askesis as necessary to attain a philosophical life=”a life above nature and beyond common human living”).
 - The idea of accepting certain self-imposed limitations in order to attain a higher and more faithful pattern of life is also found within the Jewish and early Christian traditions.
-- Thus, for example, fasting and afflicting the body (e.g. wearing sackcloth and ashes) are disciplines undertaken to promote repentance, strengthen one in the face of temptation, etc. § See e.g. Zech. 7:1-5; Lev. 23:26-32; Est. 4:15-16; etc.
-- One might also think of the limitations accepted by the Nazirites (abstaining from drink, cutting of hair, etc.). § See Num. 6:1-8; Jdg. 13:4-5; 16:17.
-- Many of the directions concerning prayer and worship rest upon a broadly similar assumption, namely that body and soul are connected in such a way that the disciplined disposition of the body is necessary if the soul is to become disciplined and be properly disposed. § In regard to the idea of withdrawing from certain ordinary social responsibilities, see Mt. 19:12 and 1 Cor, 7 on some giving up marriage for the sake of prayer and of the Kingdom of Heaven and Mt. 19:21 on some giving up property/resources for the sake of the Kingdom.
+- Thus, for example, fasting and afflicting the body (e.g. wearing sackcloth and ashes) are disciplines undertaken to promote repentance, strengthen one in the face of temptation, etc. § See e.g. Zech. 7:1-5; Lev. 23:26-32; Est. 4:15-16; etc.
+- One might also think of the limitations accepted by the Nazirites (abstaining from drink, cutting of hair, etc.). § See Num. 6:1-8; Jdg. 13:4-5; 16:17.
+- Many of the directions concerning prayer and worship rest upon a broadly similar assumption, namely that body and soul are connected in such a way that the disciplined disposition of the body is necessary if the soul is to become disciplined and be properly disposed. § In regard to the idea of withdrawing from certain ordinary social responsibilities, see Mt. 19:12 and 1 Cor, 7 on some giving up marriage for the sake of prayer and of the Kingdom of Heaven and Mt. 19:21 on some giving up property/resources for the sake of the Kingdom.
 
 The early ascetics argued that the person who desired to be saved needed to progress through a process which included: (1) faith; (2) compunction (katanuxis; see Acts 2:37), i.e. a being pierced to the heart by the consciousness of one’s sin and of the nearness of death and judgment, leading to the fear of God;
 
@@ -75,7 +75,7 @@ If the ascetic community was to function well and persist over time, it was argu
 - all must renounce their claims (e.g. to individual possessions and to control over their individual lives) and
 
 - follow a single set of standardized, relatively impersonal norms (the monastic rule), which the community leader (abbot) is to implement and maintain.
-- Those who wish to join the community must agree to abide by the rule, not contesting the abbot's interpretation of it (lest self-will and stubbornness should create division within the community). § Note that vows are for life, after an appropriate process of instruction and probation.
+- Those who wish to join the community must agree to abide by the rule, not contesting the abbot's interpretation of it (lest self-will and stubbornness should create division within the community). § Note that vows are for life, after an appropriate process of instruction and probation.
 - After all, it was argued, if the point of asceticism was to devote one’s full time and attention to God, could time and effort be saved by organizing together as a community to (1) do more efficiently the routine work of preparing and cooking food, eating, cleaning, and generating an income (e.g. by weaving baskets) ; (2) praying together in a more disciplined way (regular schedule during the day) and (3) having more opportunities for mutual encouragement, exhortation and mutual correction (a more accountable lifestyle as a prerequisite for the pursuit of Christian perfection). This was the form that eventually became normative in Western monasticism, which is the form of asceticism that is most familiar to us.
 
 The Desert Fathers The fourth century Egyptian Desert Fathers represent an intermediate stage in this development. They were mostly solitaries (“anchorites”) like (a) above, although they increasingly moved from the outskirts of towns to desert settlements in the Egyptian Delta region (Nitria and Scetis), the desert being the archetypal adverse environment--a place of greater loneliness/deprivation/challenge (cf. Christ’s temptation in the desert after his baptism).
@@ -90,14 +90,14 @@ Status and leadership were instead established charismatically by
 - the example of one’s life (detachment and devotion to Christ) and
 - a reputation for having received discernment or prophetic insight from the Spirit.
 
-- The immediate breakthrough of supernatural powers into the natural realm is basic to understanding the significance and drama of the ascetic life; trying to make sense of life without this would have seemed a form of insanity to the ascetics. § Note the power ascribed to the prayer (intercession) of a righteous man (cf. James 5:16-18) § Note the relatively common references to a devout monk
+- The immediate breakthrough of supernatural powers into the natural realm is basic to understanding the significance and drama of the ascetic life; trying to make sense of life without this would have seemed a form of insanity to the ascetics. § Note the power ascribed to the prayer (intercession) of a righteous man (cf. James 5:16-18) § Note the relatively common references to a devout monk
 - seeing a vision and hearing a voice or
 - receiving an edifying interpretation of a vision or visions that had symbolic content .
 
 The life of the holy man (abba) or woman (amma) thus teaches a lesson, even without the use of words (for the use of “father” to denote persons who preceded one in the faith, see Lk. 1:55; Jn. 6:31, 49; 1 Cor. 10:1). More specifically, the holy person’s life teaches by displaying the fruit of the Spirit, most notably including
 - a genuine humility
 - care for the weak
-- Note the value ascribed to various works of mercy and charity § giving alms to the poor § burying the dead § assisting the blind
+- Note the value ascribed to various works of mercy and charity § giving alms to the poor § burying the dead § assisting the blind
 - a gentleness and forbearance in dealing with other’s weakness (which contrasts with one’s very severe attitude toward oneself), out of love waiting for the opportune time to administer correction so that the weak and erring person might be restored and saved “A saintly life is more educative than a sermon” (Cassian, Conferences). For this reason, it is not surprising that those who sought isolation became, for this very reason, a kind of tourist attraction and an object of pilgrimage.
 
 The Apophthegmata patrum: The Sayings of the Fathers

@@ -35,10 +35,10 @@ John Stuart Mill's approach to individual liberty in On Liberty (1859)=
 Mill's Life: Born in 1806, he was the oldest of nine children born to James Mill, a reform- minded intellectual who was part of a circle of friends who supported Jeremy Bentham's utilitarian philosophy (more on this later) and incidentally also contributed to young John's education, which was certainly very unusual in character (see Riley, Mill: On Liberty, pp. 7-12). Like his father James, John spent most of his life working for the East India Company. In 1822-1826, he founded a study circle called the Utilitarian Society, which discussed matters of political economy, logic and psychology and between 1825- 1830 he took part in a number of public debates with persons of other political and philosophical convictions.
 - The Benthamite type of radicalism Mill espoused
 - emphasized reason as an instrument of social reform and
-- believed that people were predominantly motivated by self-interest  Self-interest was generally defined in terms of pleasure, with wealth and power seen as sources of pleasure intrinsically associated with one's personal welfare and so to be pursued.
+- believed that people were predominantly motivated by self-interest  Self-interest was generally defined in terms of pleasure, with wealth and power seen as sources of pleasure intrinsically associated with one's personal welfare and so to be pursued.
 - The task then was to
 - improve the intellectual capacities of the masses and
-- establish social and political institutions that were compatible with the pursuit of enlightened self-interest.  Social institutions should be designed in such a way that self- interested persons, naturally being motivated to acquire wealth and power, should have the proper incentives, i.e. rewards and punishments, to act so as to maximize the general welfare.
+- establish social and political institutions that were compatible with the pursuit of enlightened self-interest.  Social institutions should be designed in such a way that self- interested persons, naturally being motivated to acquire wealth and power, should have the proper incentives, i.e. rewards and punishments, to act so as to maximize the general welfare.
 - The cultivation of
 - higher moral and aesthetic sentiments (such as the passionate desire for justice or the sympathy for others, e.g., those who have suffered loss),
 - the fine arts

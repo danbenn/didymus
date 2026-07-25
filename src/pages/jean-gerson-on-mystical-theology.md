@@ -27,7 +27,7 @@ Gerson's Life Jean le Charlier de Gerson
 - In accordance with the Nominalism of his friend and predecessor Pierre d'Ailly (d. 1420), Gerson rejected the search for a speculative support for the truth of the faith (which had been central to earlier scholasticism), presupposing a greater distinction and separation between faith and reason.
 - He promoted
 - the reform of both the Church and theological studies,
-- emphasizing the need for  a thorough study of Scripture in its literal sense (which in some ways laid the groundwork for the Reformation), as well as  a pattern of systematic, critical discernment to be used in evaluating claims made about religious experience, making some important observations about the psychological basis for religious experience.
+- emphasizing the need for  a thorough study of Scripture in its literal sense (which in some ways laid the groundwork for the Reformation), as well as  a pattern of systematic, critical discernment to be used in evaluating claims made about religious experience, making some important observations about the psychological basis for religious experience.
 - In this way he hoped to make theology more accessible to the people and more closely correlated with the practice of the Christian life.
 - Gerson died in Lyon (France) in 1429.
 
