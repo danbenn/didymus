@@ -11,6 +11,7 @@ const OUT_DIR = path.join(__dirname, "..", "src", "pages");
 const UPLOADS_SRC = path.join(SRC_DIR, "uploads", "3", "4", "2", "1", "3421357");
 
 const turndown = new TurndownService({ headingStyle: "atx" });
+turndown.keep(["audio"]);
 
 function slugify(name) {
   return name.replace(/\.html$/, "");
@@ -69,6 +70,17 @@ function main() {
       const href = $(el).attr("href") || "";
       const m = href.match(/^([\w-]+)\.html$/);
       if (m) $(el).attr("href", `/${m[1]}/`);
+    });
+
+    // Rewrite the local audio player's src to its new location, drop the ClustrMaps
+    // visitor-counter widget (a dead third-party embed with no place in the new site).
+    contentRoot.find("audio source[src^='audio/']").each((_, el) => {
+      $(el).attr("src", `/audio/${$(el).attr("src").replace(/^audio\//, "")}`);
+    });
+    contentRoot.find("a[href*='clustrmaps.com']").each((_, el) => {
+      const parent = $(el).parent();
+      $(el).remove();
+      if (parent.is("p") && !parent.text().trim() && !parent.find("*").length) parent.remove();
     });
 
     // Drop empty leftover wrapper divs/hrs from the widget removal.

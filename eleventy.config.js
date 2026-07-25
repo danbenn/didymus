@@ -2,6 +2,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "www.didymus.org/uploads/3/4/2/1/3421357": "files" });
   eleventyConfig.addPassthroughCopy("src/css");
   eleventyConfig.addPassthroughCopy("admin");
+  eleventyConfig.addPassthroughCopy({ "www.didymus.org/audio": "audio" });
 
   eleventyConfig.addCollection("pages", (api) =>
     api.getFilteredByGlob("src/pages/*.md").sort((a, b) => a.data.title.localeCompare(b.data.title))
