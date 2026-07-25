@@ -2,8 +2,8 @@ backend:
   name: github
   repo: danbenn/didymus
   branch: main
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
+  base_url: https://decap-proxy.didymus.workers.dev
+  auth_endpoint: /auth
 
 # Content and PDFs are just files in the git repo — no database.
 # "Delete" in the CMS means "remove the file/page"; everything is recoverable from git history.

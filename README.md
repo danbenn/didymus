@@ -43,12 +43,13 @@ on the editor's behalf. Since GitHub Pages is static-only, this needs one
 small piece of external plumbing:
 
 1. Create a GitHub OAuth App (Settings → Developer settings → OAuth Apps)
-   for this repo.
-2. Register that OAuth App with a free [Netlify](https://netlify.com)
-   account, purely to use Netlify's OAuth proxy (`api.netlify.com`) — the
-   site itself is **not** hosted on Netlify, this is only for the login
-   handshake. See the [Decap CMS docs](https://decapcms.org/docs/github-backend/)
-   for the exact steps.
+   for this repo. Homepage URL is the site's URL; callback URL is the proxy
+   URL below + `/callback`.
+2. Deploy [decap-proxy](https://github.com/sterlingwes/decap-proxy) — a
+   small, self-hosted OAuth proxy — to Cloudflare Workers (free tier). It
+   does the GitHub OAuth token exchange that a static GitHub Pages site can't
+   do itself. `admin/config.yml`'s `backend.base_url` points at this deployed
+   Worker (currently `https://decap-proxy.didymus.workers.dev`).
 3. Give the editor's GitHub account write access to this repo (as a
    collaborator), then send them to `https://<your-domain>/admin/` to log in
    with GitHub and start editing.
