@@ -1,0 +1,33 @@
+:root {
+  color-scheme: light dark;
+  --fg: #1a1a1a;
+  --bg: #fdfcf9;
+  --accent: #6b3f2a;
+  --muted: #666;
+  --border: #ddd;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --fg: #eee; --bg: #171512; --muted: #aaa; --border: #333; }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--fg);
+  background: var(--bg);
+  line-height: 1.6;
+}
+main { max-width: 46rem; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+.site-header {
+  max-width: 46rem; margin: 0 auto; padding: 1.5rem 1.25rem 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+.site-title { font-size: 1.6rem; font-weight: bold; text-decoration: none; color: var(--accent); }
+.site-subtitle { margin: 0.1rem 0 0.8rem; color: var(--muted); font-style: italic; }
+nav a { color: var(--accent); }
+h1 { color: var(--accent); }
+a { color: var(--accent); }
+.attachments { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--border); }
+.attachments ul { padding-left: 1.2rem; }
+.site-footer { max-width: 46rem; margin: 0 auto; padding: 1rem 1.25rem 2rem; color: var(--muted); font-size: 0.85rem; }
+.page-list li { margin-bottom: 0.4rem; }

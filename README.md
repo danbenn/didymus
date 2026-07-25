@@ -1,75 +1,78 @@
-# Didymus.org Archive
+# Didymus.org
 
-A full static mirror of [didymus.org](https://www.didymus.org) ("Early Christian
-Spirituality and Spiritual Direction"), captured on 2026-07-22 before the
-original Weebly site is shut down. This is a **fully self-contained** mirror —
-including assets that Weebly served from its own CDN — so it will keep working
-even after Weebly itself disappears.
+Rebuilt static site + CMS for [didymus.org](https://www.didymus.org)
+("Early Christian Spirituality and Spiritual Direction"), replacing the
+original Weebly-hosted site. Built to survive platform shutdowns (Weebly,
+then Square) by keeping content as plain files in this git repo — no
+proprietary export format, no vendor lock-in.
 
-- **246** HTML pages
-- **199** PDF files
-- All images, CSS, and JS assets — including those Weebly served from its own
-  CDN domain (`cdn2.editmysite.com`), which a naive same-host mirror would miss
-- The site's background audio track, re-hosted locally and switched from a
-  dead Flash embed to a plain HTML5 `<audio>` player (see "Audio player" below)
-- ~93 MB total
+## How it works
 
-See [SITEMAP.md](SITEMAP.md) for a full index of every page and PDF.
+- **[Eleventy](https://www.11ty.dev/)** (`eleventy.config.js`) builds static
+  HTML from markdown content in `src/pages/*.md`.
+- Each page is a markdown file with front-matter: `title`, `slug`, and an
+  optional list of `attachments` (PDFs/docs available for download).
+- **[Decap CMS](https://decapcms.org/)** (`admin/`) provides a simple
+  web-based editor at `/admin/` — add or edit a page, upload a PDF — with no
+  git or code knowledge required. It commits changes straight to this repo.
+- **GitHub Actions** (`.github/workflows/deploy.yml`) rebuilds and deploys to
+  GitHub Pages automatically on every push to `main` (including CMS edits).
+- Original PDFs/docs live in `www.didymus.org/uploads/3/4/2/1/3421357/` and
+  are served as-is for download alongside the page text.
 
-## Folder structure
+## Content migration
+
+`www.didymus.org/*.html` is the original archived Weebly mirror (captured
+2026-07-22), kept as the source for the one-time conversion in
+`scripts/convert.js`, which extracted each page's title, body text, and file
+attachments into `src/pages/*.md`. Re-run it only if you need to re-import
+from the archive; day-to-day editing should happen through `/admin/` or by
+editing `src/pages/*.md` directly.
+
+## Local development
 
 ```
-/
-├── index.html                  ← redirect page to the archived site
-├── www.didymus.org/            ← all site pages, images local to the site, PDFs
-├── cdn2.editmysite.com/        ← Weebly CDN assets (fonts, JS, some images)
-├── www.weebly.com/             ← a couple of small file-type icon images
-├── SITEMAP.md
-└── README.md
+npm install
+npx eleventy --serve   # http://localhost:8080
 ```
 
-Pages reference the CDN/weebly asset folders via relative paths
-(`../cdn2.editmysite.com/...`), so **keep these three folders as siblings** —
-don't flatten `www.didymus.org/` into the repo root, or those relative links
-will break. The root `index.html` redirect exists precisely so you get a clean
-top-level URL without needing to move anything.
+## Editor setup (one-time, for the non-technical editor)
 
-## Audio player
+Decap CMS's GitHub backend needs OAuth to let a browser commit to this repo
+on the editor's behalf. Since GitHub Pages is static-only, this needs one
+small piece of external plumbing:
 
-The original site embedded a Flash-based audio player (`audioPlayer2.swf`),
-which has been non-functional in every modern browser since Flash was
-discontinued in 2020/2021 — so it was already broken independent of Weebly's
-shutdown. The underlying audio file (`monday_of_pentecost.mp3`, a Byzantine
-chant recording) was still fetchable and has been downloaded to
-`www.didymus.org/audio/`. The embed on the home page has been replaced with a
-standard HTML5 `<audio controls>` element pointing to the local file — no
-external player library needed, works in any modern browser.
+1. Create a GitHub OAuth App (Settings → Developer settings → OAuth Apps)
+   for this repo. Homepage URL is the site's URL; callback URL is the proxy
+   URL below + `/callback`.
+2. Deploy [decap-proxy](https://github.com/sterlingwes/decap-proxy) — a
+   small, self-hosted OAuth proxy — to Cloudflare Workers (free tier). It
+   does the GitHub OAuth token exchange that a static GitHub Pages site can't
+   do itself. `admin/config.yml`'s `backend.base_url` points at this deployed
+   Worker (currently `https://decap-proxy.didymus.workers.dev`).
+3. Give the editor's GitHub account write access to this repo (as a
+   collaborator), then send them to `https://<your-domain>/admin/` to log in
+   with GitHub and start editing.
 
-## How to publish this on GitHub Pages
+Everything the CMS does is a normal git commit — nothing is ever
+unrecoverable, and if Decap CMS itself ever goes away, the content underneath
+it is just markdown files any future tool (or a text editor) can read.
 
-1. Create a new GitHub repository (public — GitHub Pages on the free tier
-   requires a public repo to be reachable).
-2. Copy everything in this folder into the repo root, preserving the folder
-   structure above.
-3. The included `.nojekyll` file is required — without it, GitHub's Jekyll
-   processor can mishandle Weebly's underscore-prefixed folders/files.
-4. Commit and push, then enable GitHub Pages in Settings → Pages → Deploy from
-   branch → `main` / root.
-5. Visit `https://<user>.github.io/<repo>/` — the root redirect will take you
-   straight to `www.didymus.org/index.html`.
+## SEO
 
-## Notes / known limitations
+- Each page gets its own `<title>`/description and a clean URL (`/slug/`)
+  instead of Weebly's bloated markup.
+- `/sitemap.xml` lists every page for search engine crawlers.
+- `/sitemap/` is a human-readable index of all pages.
 
-- Links were rewritten (`wget --convert-links`) to work offline/locally, so
-  internal navigation between pages works as-is once hosted.
-- Weebly's server-side features (site search box, contact form, comment
-  widgets) will not function — there's no backend behind this archive. This
-  is a static snapshot only.
-- A visitor counter widget (ClustrMaps) and a Creative Commons license badge
-  still point to their original external hosts — purely cosmetic, harmless if
-  those services ever go away too.
-- Google Analytics tracking code is still present but will simply fail
-  silently (no tracking backend) — harmless, and arguably a feature.
-- Consider also submitting the original site URL to the
-  [Wayback Machine](https://web.archive.org/save) as a redundant backup before
-  it goes offline.
+## Custom domain
+
+`src/static/CNAME` is deployed to the site root so GitHub Pages serves this
+under `www.didymus.org` — point that domain's DNS at GitHub Pages per
+[GitHub's custom domain docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site).
+
+## Original archive
+
+The raw Weebly mirror (`www.didymus.org/*.html`, `cdn2.editmysite.com/`,
+`www.weebly.com/`) is kept in the repo as the historical source and as a
+fallback — see `ARCHIVE.md` for details on that snapshot.

@@ -1,0 +1,30 @@
+backend:
+  name: github
+  repo: danbenn/didymus
+  branch: main
+  base_url: https://decap-proxy.didymus.workers.dev
+  auth_endpoint: /auth
+
+# Content and PDFs are just files in the git repo — no database.
+# "Delete" in the CMS means "remove the file/page"; everything is recoverable from git history.
+media_folder: "www.didymus.org/uploads/3/4/2/1/3421357"
+public_folder: "/files"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "src/pages"
+    create: true
+    slug: "{{slug}}"
+    identifier_field: title
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug (URL)", name: "slug", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+      - label: "Attached Files (PDFs, etc.)"
+        name: "attachments"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "File", name: "file", widget: "file" }
+          - { label: "Download URL", name: "url", widget: "string" }

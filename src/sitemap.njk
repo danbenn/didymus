@@ -1,0 +1,11 @@
+---
+layout: base.njk
+title: All Pages
+permalink: /sitemap/
+---
+<h1>All Pages</h1>
+<ul class="page-list">
+{% for p in collections.pages %}
+  <li><a href="{{ p.url }}">{{ p.data.title }}</a></li>
+{% endfor %}
+</ul>
