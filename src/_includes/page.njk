@@ -2,13 +2,16 @@
 layout: base.njk
 ---
 <article>
-  <h1>{{ title }}</h1>
+  <div class="prose"><h1>{{ title }}</h1></div>
   {% for a in attachments %}{% if a.url.endsWith(".pdf") %}
-  <div class="pdf-viewer">
-    <iframe src="{{ a.url }}" title="{{ a.file }}" loading="lazy"></iframe>
-    <p class="pdf-viewer-fallback"><a href="{{ a.url }}" download>Download {{ a.file }}</a> if the preview above doesn't load.</p>
+  <div class="pdf-viewer-wrap">
+    <div class="pdf-viewer">
+      <iframe src="{{ a.url }}#toolbar=1" title="{{ a.file }}" loading="lazy"></iframe>
+    </div>
+    <p class="pdf-viewer-fallback"><a href="{{ a.url }}" target="_blank" rel="noopener">Open in a new tab</a> or <a href="{{ a.url }}" download>download {{ a.file }}</a> if the preview above doesn't load.</p>
   </div>
   {% endif %}{% endfor %}
+  <div class="prose">
   {{ content | safe }}
   {% if attachments and attachments.length %}
   <div class="attachments">
@@ -20,4 +23,5 @@ layout: base.njk
     </ul>
   </div>
   {% endif %}
+  </div>
 </article>

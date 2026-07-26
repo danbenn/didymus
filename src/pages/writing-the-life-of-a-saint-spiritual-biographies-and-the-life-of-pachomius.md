@@ -4,5 +4,7 @@ slug: "writing-the-life-of-a-saint-spiritual-biographies-and-the-life-of-pachomi
 attachments:
   - file: "writing_the_life_of_a_saint.doc"
     url: "/files/writing_the_life_of_a_saint.doc"
+  - file: "writing_the_life_of_a_saint.pdf"
+    url: "/files/writing_the_life_of_a_saint.pdf"
 ---
 
