@@ -15,11 +15,9 @@
         "children": [
           {
             "title": "Historical Theology I: Doctrine and Spirituality of the Early Church",
-            "slug": "historical-theology-i-doctrine-and-spirituality-of-the-early-church",
             "children": [
               {
                 "title": "Historical Theology I Lectures",
-                "slug": "historical-theology-i-lectures",
                 "children": [
                   {
                     "title": "Lectures 1-10",
@@ -129,11 +127,9 @@
           },
           {
             "title": "Historical Theology II: Doctrine and Spirituality of the Medieval Church",
-            "slug": "historical-theology-ii-doctrine-and-spirituality-of-the-medieval-church",
             "children": [
               {
                 "title": "Historical Theology II Lectures 1-10",
-                "slug": "historical-theology-ii-lectures-1-10",
                 "children": [
                   {
                     "title": "Intro to European Society in the Middle Ages",
@@ -179,7 +175,6 @@
               },
               {
                 "title": "Historical Theology Lectures 11-20",
-                "slug": "historical-theology-lectures-11-20",
                 "children": [
                   {
                     "title": "Faith and Reason in Anselm's Proslogion",
@@ -581,11 +576,9 @@
           },
           {
             "title": "Augustine's Moral and Pastoral Theology",
-            "slug": "augustines-moral-and-pastoral-theology",
             "children": [
               {
                 "title": "Augustine Seminar Lectures 1-5",
-                "slug": "augustine-seminar-lectures-1-5",
                 "children": [
                   {
                     "title": "Intro to Augustine's Life and Works",
