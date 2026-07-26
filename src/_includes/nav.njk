@@ -1,9 +1,9 @@
-{% macro navitem(item) %}<li>
-{% if item.children %}<details>
+{% macro navitem(item, depth=0) %}<li>
+{% if item.children %}<details{% if depth == 0 %} name="top-nav"{% endif %}>
 <summary>{{ item.title }}</summary>
 <ul>
 {% if item.slug %}<li><a href="/{{ item.slug }}/">{{ item.title }} (overview)</a></li>{% endif %}
-{% for child in item.children %}{{ navitem(child) }}{% endfor %}
+{% for child in item.children %}{{ navitem(child, depth + 1) }}{% endfor %}
 </ul>
 </details>
 {% else %}<a href="{% if item.slug %}/{{ item.slug }}/{% else %}/{% endif %}">{{ item.title }}</a>

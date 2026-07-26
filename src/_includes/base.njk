@@ -21,9 +21,14 @@
       <li><a href="/sitemap/">All Pages</a></li>
     </ul>
   </nav>
+  <div class="site-search" data-base-url="{{ site.baseUrl }}">
+    <input type="search" id="site-search-input" placeholder="Search site&hellip;" autocomplete="off">
+    <ul id="site-search-results" hidden></ul>
+  </div>
 </header>
 <main>
 {{ content | safe }}
 </main>
+<script src="/js/search.js"></script>
 </body>
 </html>
