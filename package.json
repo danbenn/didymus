@@ -4,6 +4,7 @@
   "description": "A full static mirror of [didymus.org](https://www.didymus.org) (\"Early Christian Spirituality and Spiritual Direction\"), captured on 2026-07-22 before the original Weebly site is shut down. This is a **fully self-contained** mirror — including assets that Weebly served from its own CDN — so it will keep working even after Weebly itself disappears.",
   "main": "index.js",
   "scripts": {
+    "build": "eleventy && pagefind --site _site",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,7 +17,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^3.1.6",
     "cheerio": "^1.2.0",
-    "gray-matter": "^4.0.3",
+    "pagefind": "^1.5.2",
     "turndown": "^7.2.4"
   }
 }

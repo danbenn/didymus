@@ -5,30 +5,50 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ title }} · Didymus — Early Christian Spirituality and Spiritual Direction</title>
 <meta name="description" content="{{ description or title }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css">
 <link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
 {% import "nav.njk" as navmacro %}
-<header class="site-header">
-  <a class="site-title-wrap" href="/">
-    <img class="site-logo" src="/img/header.jpg" alt="Didymus">
-    <span class="site-title">Didymus</span>
-  </a>
-  <p class="site-subtitle">Early Christian Spirituality and Spiritual Direction</p>
-  <nav class="site-nav">
-    <ul class="nav-tree">
-    {% for item in nav %}{{ navmacro.navitem(item) }}{% endfor %}
-      <li><a href="/sitemap/">All Pages</a></li>
-    </ul>
-  </nav>
-  <div class="site-search" data-base-url="{{ site.baseUrl }}">
-    <input type="search" id="site-search-input" placeholder="Search site&hellip;" autocomplete="off">
-    <ul id="site-search-results" hidden></ul>
-  </div>
-</header>
-<main>
-{{ content | safe }}
-</main>
-<script src="/js/search.js"></script>
+<input type="checkbox" id="sidebar-toggle" class="sidebar-toggle-input" hidden>
+<label for="sidebar-toggle" class="sidebar-toggle-btn" aria-label="Toggle menu">
+  <span></span><span></span><span></span>
+</label>
+<label for="sidebar-toggle" class="sidebar-overlay"></label>
+<div class="layout">
+  <aside class="sidebar">
+    <a class="site-title-wrap" href="/">
+      <img class="site-logo" src="/img/header.jpg" alt="Didymus">
+      <span class="site-title">Didymus</span>
+    </a>
+    <p class="site-subtitle">Early Christian Spirituality and Spiritual Direction</p>
+    <div id="search" class="site-search"></div>
+    <nav class="site-nav">
+      <ul class="nav-tree">
+      {% for item in nav %}{{ navmacro.navitem(item) }}{% endfor %}
+        <li><a href="/sitemap/">All Pages</a></li>
+      </ul>
+    </nav>
+  </aside>
+  <main>
+  {{ content | safe }}
+  </main>
+</div>
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", function () {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      showImages: false,
+      bundlePath: "{{ site.baseUrl }}/pagefind/",
+      baseUrl: "{{ site.baseUrl }}/",
+      resetStyles: false,
+    });
+  });
+</script>
 </body>
 </html>
