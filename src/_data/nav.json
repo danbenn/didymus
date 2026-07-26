@@ -9,11 +9,9 @@
   },
   {
     "title": "Courses",
-    "slug": "courses",
     "children": [
       {
         "title": "Survey Courses",
-        "slug": "survey-courses",
         "children": [
           {
             "title": "Historical Theology I: Doctrine and Spirituality of the Early Church",
@@ -25,7 +23,6 @@
                 "children": [
                   {
                     "title": "Lectures 1-10",
-                    "slug": "lectures-1-10",
                     "children": [
                       {
                         "title": "Conversion and Baptism in the Early Church",
@@ -67,7 +64,6 @@
                   },
                   {
                     "title": "Lectures 11-20",
-                    "slug": "lectures-11-20",
                     "children": [
                       {
                         "title": "Martyrdom-Reading the Stories of the Martyrs",
@@ -247,11 +243,9 @@
           },
           {
             "title": "Historical Theology III: Doctrine and Spirituality of the Reformation",
-            "slug": "historical-theology-iii-doctrine-and-spirituality-of-the-reformation",
             "children": [
               {
                 "title": "Historical Theology III Lectures 1-6",
-                "slug": "historical-theology-iii-lectures-1-6",
                 "children": [
                   {
                     "title": "Later Middle Ages and Renaissance",
@@ -281,7 +275,6 @@
               },
               {
                 "title": "Historical Theology III Lectures 7-11",
-                "slug": "historical-theology-iii-lectures-7-11",
                 "children": [
                   {
                     "title": "Luther on Baptism",
@@ -307,7 +300,6 @@
               },
               {
                 "title": "Historical Theology III Lectures 12-16",
-                "slug": "historical-theology-iii-lectures-12-16",
                 "children": [
                   {
                     "title": "Johann Gerhard and Lutheran Devotional Literature",
@@ -333,7 +325,6 @@
               },
               {
                 "title": "Historical Theology Lectures 17-20",
-                "slug": "historical-theology-lectures-17-20",
                 "children": [
                   {
                     "title": "The English Reformation",
@@ -369,11 +360,9 @@
           },
           {
             "title": "Historical Theology IV: Secularization, Spirituality and Ministry in the Modern Period",
-            "slug": "historical-theology-iv-secularization-spirituality-and-ministry-in-the-modern-period",
             "children": [
               {
                 "title": "Historical Theology IV Lectures 1-6",
-                "slug": "historical-theology-iv-lectures-1-6",
                 "children": [
                   {
                     "title": "The Transition from Scholasticism to Rationalism",
@@ -403,7 +392,6 @@
               },
               {
                 "title": "Historical Theology IV Lectures 7-11",
-                "slug": "historical-theology-iv-lectures-7-11",
                 "children": [
                   {
                     "title": "John Locke on Toleration",
@@ -433,7 +421,6 @@
               },
               {
                 "title": "Lectures 12-15",
-                "slug": "lectures-12-15",
                 "children": [
                   {
                     "title": "Summary of Steve Bruce on Secularization",
@@ -446,10 +433,6 @@
                   {
                     "title": "Secuarlization and Evangelical Christian Response",
                     "slug": "secuarlization-and-evangelical-christian-response"
-                  },
-                  {
-                    "title": "Church Leaving : Disaffiliation & Secularization",
-                    "slug": "church-leaving--disaffiliation--secularization"
                   },
                   {
                     "title": "Religious Disaffiliation: The Rise of the Nones",
@@ -471,7 +454,6 @@
       },
       {
         "title": "Advanced Seminars",
-        "slug": "advanced-seminars",
         "children": [
           {
             "title": "Prayer and Spirituality in the Early Church: Spiritual Direction and Pastoral Care in the Greek Fathers",
@@ -483,7 +465,6 @@
               },
               {
                 "title": "Prayer and Spirituality Lectures 1-5",
-                "slug": "prayer-and-spirituality-lectures-1-5",
                 "children": [
                   {
                     "title": "Spiritual Gifts New Testament passages",
@@ -513,7 +494,6 @@
               },
               {
                 "title": "Prayer and Spirituality Lectures 6-21",
-                "slug": "prayer-and-spirituality-lectures-6-21",
                 "children": [
                   {
                     "title": "Evagrius Life and Summary of Eight Evil Reasonings",
@@ -643,7 +623,6 @@
               },
               {
                 "title": "Augustine Lectures 6-9",
-                "slug": "augustine-lectures-6-9",
                 "children": [
                   {
                     "title": "Augustine on Pastoral Ministry",
@@ -673,7 +652,6 @@
       },
       {
         "title": "Introduction to Sahidic Coptic",
-        "slug": "introduction-to-sahidic-coptic",
         "children": [
           {
             "title": "Introduction to Sahidic Coptic Syllabus",
@@ -685,7 +663,6 @@
   },
   {
     "title": "Themes in Christian Spirituality",
-    "slug": "themes-in-christian-spirituality",
     "children": [
       {
         "title": "Advent",
@@ -701,7 +678,6 @@
       },
       {
         "title": "Baptism",
-        "slug": "baptism",
         "children": [
           {
             "title": "Baptism in the New Testament",
@@ -727,7 +703,6 @@
       },
       {
         "title": "Spiritual Discernment",
-        "slug": "spiritual-discernment",
         "children": [
           {
             "title": "Rules for the Discerning of Spirits",
@@ -749,7 +724,6 @@
       },
       {
         "title": "Meditating on the Psalms",
-        "slug": "meditating-on-the-psalms",
         "children": [
           {
             "title": "Speaking Peace: Meditating on Ps 122",
@@ -771,7 +745,6 @@
       },
       {
         "title": "Abandonment to the Will of God",
-        "slug": "abandonment-to-the-will-of-god",
         "children": [
           {
             "title": "Le Cantique spirituel de Jean-Joseph Surin",
@@ -789,7 +762,6 @@
       },
       {
         "title": "Training the Next Generation of Spiritual Directors",
-        "slug": "training-the-next-generation-of-spiritual-directors",
         "children": [
           {
             "title": "Training Spiritual Directors: Content and Competencies",
@@ -805,11 +777,9 @@
   },
   {
     "title": "Pastoral Ethics",
-    "slug": "pastoral-ethics",
     "children": [
       {
         "title": "Moral Issues Lectures",
-        "slug": "moral-issues-lectures",
         "children": [
           {
             "title": "The Nature and Challenges of Pastoral Ministry",
@@ -853,7 +823,6 @@
           },
           {
             "title": "Stress and Burnout in Pastoral Ministry",
-            "slug": "stress-and-burnout-in-pastoral-ministry",
             "children": [
               {
                 "title": "Stress in Pastoral Ministry",
@@ -875,7 +844,6 @@
           },
           {
             "title": "Clergy Sexual Misconduct",
-            "slug": "clergy-sexual-misconduct",
             "children": [
               {
                 "title": "Factors Contributing to the Compulsive Use of Pornography",
@@ -897,7 +865,6 @@
           },
           {
             "title": "Marriage Divorce and Remarriage",
-            "slug": "marriage-divorce-and-remarriage",
             "children": [
               {
                 "title": "Marriage Divorce and Remarriage Lecture",
@@ -925,7 +892,6 @@
       },
       {
         "title": "Pastoral Ethics Case Studies",
-        "slug": "pastoral-ethics-case-studies",
         "children": [
           {
             "title": "Case Study on Telling the Truth and Deception",
@@ -947,7 +913,6 @@
       },
       {
         "title": "Moral Issues Final Exam",
-        "slug": "moral-issues-final-exam1",
         "children": [
           {
             "title": "Moral Issues Final Exam",
@@ -963,7 +928,6 @@
   },
   {
     "title": "Legal Issues",
-    "slug": "legal-issues",
     "children": [
       {
         "title": "Legal Issues: Invasion of Privacy and Defamation",
@@ -975,7 +939,6 @@
       },
       {
         "title": "Moral and Legal Issues in Spiritual Direction",
-        "slug": "moral-and-legal-issues-in-spiritual-direction",
         "children": [
           {
             "title": "Moral and Legal Issues in Spiritual Direction Bibliography",
@@ -987,7 +950,6 @@
   },
   {
     "title": "The Seven Deadly Sins",
-    "slug": "the-seven-deadly-sins",
     "children": [
       {
         "title": "The Heart Chart: How We Respond to Temptation",
@@ -1023,7 +985,6 @@
       },
       {
         "title": "Case Studies on the Seven Deadly Sins",
-        "slug": "case-studies-on-the-seven-deadly-sins",
         "children": [
           {
             "title": "Case Study on Pride and Vainglory",
@@ -1035,7 +996,6 @@
   },
   {
     "title": "The Lord's Prayer",
-    "slug": "the-lords-prayer",
     "children": [
       {
         "title": "Prayer in the Early Church",
