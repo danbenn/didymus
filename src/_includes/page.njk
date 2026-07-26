@@ -3,6 +3,12 @@ layout: base.njk
 ---
 <article>
   <h1>{{ title }}</h1>
+  {% for a in attachments %}{% if a.url.endsWith(".pdf") %}
+  <div class="pdf-viewer">
+    <iframe src="{{ a.url }}" title="{{ a.file }}" loading="lazy"></iframe>
+    <p class="pdf-viewer-fallback"><a href="{{ a.url }}" download>Download {{ a.file }}</a> if the preview above doesn't load.</p>
+  </div>
+  {% endif %}{% endfor %}
   {{ content | safe }}
   {% if attachments and attachments.length %}
   <div class="attachments">

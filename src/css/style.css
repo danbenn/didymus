@@ -55,6 +55,12 @@ h1 { font-size: 2rem; margin: 0 0 1.25rem; }
 h2 { font-size: 1.4rem; margin-top: 2.25rem; }
 h3 { font-size: 1.15rem; margin-top: 1.75rem; color: var(--accent-2); }
 main img { max-width: 100%; height: auto; border-radius: 3px; }
+.pdf-viewer { margin: 1.5rem 0 2rem; }
+.pdf-viewer iframe {
+  width: 100%; height: 80vh; border: 1px solid var(--border); border-radius: 4px;
+  background: #fff;
+}
+.pdf-viewer-fallback { margin: 0.5rem 0 0; font-size: 0.85rem; color: var(--muted); }
 a { color: var(--link); text-decoration-color: color-mix(in srgb, var(--link) 35%, transparent); }
 a:hover { text-decoration-color: var(--link); }
 main p, main li { hyphens: auto; }
