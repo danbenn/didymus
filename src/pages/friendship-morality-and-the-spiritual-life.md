@@ -6,4 +6,6 @@ attachments:
   url: /files/friendship.pdf
 slug: friendship-morality-and-the-spiritual-life
 title: Friendship Morality and the Spiritual Life
+parent: "moral-issues-lectures"
+order: 6
 ---

@@ -6,4 +6,6 @@ attachments:
     url: "/files/spiritual_gifts_nt_passages.docx"
   - file: "spiritual_gifts_nt_passages.pdf"
     url: "/files/spiritual_gifts_nt_passages.pdf"
+parent: "prayer-and-spirituality-lectures-1-5"
+order: 0
 ---

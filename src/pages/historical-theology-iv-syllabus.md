@@ -6,4 +6,6 @@ attachments:
   url: /files/historical_theology_iv_syllabus_2015_rev.pdf
 slug: historical-theology-iv-syllabus
 title: Historical Theology IV Syllabus
+parent: "historical-theology-iv-secularization-spirituality-and-ministry-in-the-modern-period"
+order: 3
 ---

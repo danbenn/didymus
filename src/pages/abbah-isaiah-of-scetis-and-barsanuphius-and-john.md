@@ -4,4 +4,6 @@ attachments:
   url: /files/abba_isaiah_of_scetis_and_barsanuphius_and_john.pdf
 slug: abbah-isaiah-of-scetis-and-barsanuphius-and-john
 title: Abbah Isaiah of Scetis and Barsanuphius and John
+parent: "prayer-and-spirituality-lectures-6-21"
+order: 14
 ---

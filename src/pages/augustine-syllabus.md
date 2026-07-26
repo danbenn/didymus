@@ -6,4 +6,6 @@ attachments:
   url: /files/augustine_syllabus2016.pdf
 slug: augustine-syllabus
 title: Augustine Syllabus
+parent: "augustines-moral-and-pastoral-theology"
+order: 2
 ---

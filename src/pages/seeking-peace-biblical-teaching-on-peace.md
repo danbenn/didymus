@@ -6,4 +6,6 @@ attachments:
   url: /files/seeking_peace_biblical_teaching_on_peace.pdf
 slug: seeking-peace-biblical-teaching-on-peace
 title: 'Seeking Peace: Biblical Teaching on Peace'
+parent: "meditating-on-the-psalms"
+order: 1
 ---

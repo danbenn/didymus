@@ -4,4 +4,6 @@ attachments:
   url: /files/marriage_divorce_and_remarriage.pdf
 slug: marriage-divorce-and-remarriage-lecture
 title: Marriage Divorce and Remarriage Lecture
+parent: "marriage-divorce-and-remarriage"
+order: 0
 ---

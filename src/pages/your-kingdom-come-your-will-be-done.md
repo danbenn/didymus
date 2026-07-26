@@ -4,4 +4,6 @@ attachments:
   url: /files/your_kingdom_come.pdf
 slug: your-kingdom-come-your-will-be-done
 title: Your Kingdom Come Your Will Be Done
+parent: "the-lords-prayer"
+order: 4
 ---

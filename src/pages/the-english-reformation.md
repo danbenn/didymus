@@ -4,4 +4,6 @@ attachments:
   url: /files/the_english_reformation.pdf
 slug: the-english-reformation
 title: The English Reformation
+parent: "historical-theology-lectures-17-20"
+order: 0
 ---

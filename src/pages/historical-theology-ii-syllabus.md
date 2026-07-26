@@ -6,4 +6,6 @@ attachments:
   url: /files/historical_theology_ii_syllabus2016rev.pdf
 slug: historical-theology-ii-syllabus
 title: Historical Theology II Syllabus
+parent: "historical-theology-ii-doctrine-and-spirituality-of-the-medieval-church"
+order: 2
 ---

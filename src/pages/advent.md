@@ -6,4 +6,6 @@ attachments:
   url: /files/advent.pdf
 slug: advent
 title: Advent
+parent: "themes-in-christian-spirituality"
+order: 0
 ---

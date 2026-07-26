@@ -4,4 +4,6 @@ attachments:
   url: /files/background_of_the_reformation_late_middle_ages_and_renaissance.pdf
 slug: later-middle-ages-and-renaissance
 title: Later Middle Ages and Renaissance
+parent: "historical-theology-iii-lectures-1-6"
+order: 0
 ---

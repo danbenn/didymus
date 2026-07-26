@@ -6,5 +6,7 @@ attachments:
     url: "/files/writing_the_life_of_a_saint.doc"
   - file: "writing_the_life_of_a_saint.pdf"
     url: "/files/writing_the_life_of_a_saint.pdf"
+parent: "lectures-11-20"
+order: 10
 ---
 

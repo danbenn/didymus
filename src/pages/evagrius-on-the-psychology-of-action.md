@@ -6,4 +6,6 @@ attachments:
   url: /files/evagrius_psychology_of_action.pdf
 slug: evagrius-on-the-psychology-of-action
 title: Evagrius on the Psychology of Action
+parent: "prayer-and-spirituality-lectures-6-21"
+order: 1
 ---

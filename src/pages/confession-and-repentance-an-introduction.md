@@ -4,4 +4,6 @@ attachments:
   url: /files/confession_and_penance.pdf
 slug: confession-and-repentance-an-introduction
 title: 'Confession and Repentance: An Introduction'
+parent: "historical-theology-ii-lectures-1-10"
+order: 5
 ---

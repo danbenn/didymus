@@ -4,4 +4,6 @@ attachments:
   url: /files/differentiation_from_judaism.pdf
 slug: differentiation-from-judaism
 title: Differentiation from Judaism
+parent: "lectures-1-10"
+order: 3
 ---

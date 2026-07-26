@@ -6,4 +6,6 @@ attachments:
   url: /files/sexual_misconduct_in_ministry_supplemental_handout.pdf
 slug: sexual-misconduct-in-ministry-supplemental-handout
 title: Sexual Misconduct in Ministry Supplemental Handout
+parent: "clergy-sexual-misconduct"
+order: 2
 ---

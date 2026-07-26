@@ -6,4 +6,6 @@ attachments:
   url: /files/conversion_and_baptism_in_the_early_church.pdf
 slug: conversion-and-baptism-in-the-early-church
 title: Conversion and Baptism in the Early Church
+parent: "lectures-1-10"
+order: 0
 ---

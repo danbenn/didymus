@@ -6,4 +6,6 @@ attachments:
   url: /files/look_at_personal_stressors_.pdf
 slug: taking-a-closer-look-at-personal-stressors-the-pie-plate-chart
 title: 'Taking a Closer Look At Personal Stressors: The Pie Plate Chart'
+parent: "stress-and-burnout-in-pastoral-ministry"
+order: 2
 ---

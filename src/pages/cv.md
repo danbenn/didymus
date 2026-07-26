@@ -6,4 +6,5 @@ attachments:
   url: /files/resume_2018.pdf
 slug: cv
 title: C.V.
+order: 1
 ---

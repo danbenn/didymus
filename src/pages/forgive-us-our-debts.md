@@ -4,4 +4,6 @@ attachments:
   url: /files/forgive_us_our_debts.pdf
 slug: forgive-us-our-debts
 title: Forgive Us Our Debts
+parent: "the-lords-prayer"
+order: 6
 ---

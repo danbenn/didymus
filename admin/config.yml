@@ -20,6 +20,20 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Slug (URL)", name: "slug", widget: "string" }
+      - label: "Parent page (where this appears in the menu)"
+        name: "parent"
+        widget: "relation"
+        collection: "pages"
+        search_fields: ["title"]
+        value_field: "slug"
+        display_fields: ["title"]
+        required: false
+        hint: "Leave empty for a top-level menu item. Pick the section/page this should be filed under."
+      - label: "Order (position among sibling pages, lowest first)"
+        name: "order"
+        widget: "number"
+        default: 0
+        required: false
       - { label: "Body", name: "body", widget: "markdown", required: false }
       - label: "Attached Files (PDFs, etc.)"
         name: "attachments"

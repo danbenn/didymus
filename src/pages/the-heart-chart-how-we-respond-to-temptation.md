@@ -4,4 +4,6 @@ attachments:
   url: /files/heart_chart-how_we_respond_to_temptation.pdf
 slug: the-heart-chart-how-we-respond-to-temptation
 title: 'The Heart Chart: How We Respond to Temptation'
+parent: "the-seven-deadly-sins"
+order: 0
 ---

@@ -5,4 +5,6 @@ attachments:
 slug: apophthegmata-patrum-the-desert-fathers-on-prayer-compunction-and-spiritual-direction
 title: 'Apophthegmata Patrum: The Desert Fathers on Prayer, Compunction and Spiritual
   Direction'
+parent: "prayer-and-spirituality-lectures-1-5"
+order: 5
 ---

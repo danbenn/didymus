@@ -6,4 +6,6 @@ attachments:
   url: /files/lords_supper.pdf
 slug: the-lords-supper
 title: The Lord's Supper
+parent: "themes-in-christian-spirituality"
+order: 4
 ---

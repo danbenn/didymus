@@ -6,4 +6,6 @@ attachments:
     url: "/files/prayer_and_spirituality_syllabus_2018.docx"
   - file: "prayer_and_spirituality_syllabus_2018.pdf"
     url: "/files/prayer_and_spirituality_syllabus_2018.pdf"
+parent: "prayer-and-spirituality-in-the-early-church-spiritual-direction-and-pastoral-care-in-the-greek-fathers"
+order: 0
 ---

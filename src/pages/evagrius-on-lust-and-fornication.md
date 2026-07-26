@@ -6,4 +6,6 @@ attachments:
   url: /files/evagrius_on_lust_and_fornication.pdf
 slug: evagrius-on-lust-and-fornication
 title: Evagrius on Lust and Fornication
+parent: "prayer-and-spirituality-lectures-6-21"
+order: 10
 ---

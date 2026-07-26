@@ -4,4 +4,6 @@ attachments:
   url: /files/whose_orthodoxy__docetism_encratism_and_gnosticism.pdf
 slug: whose-orthodoxy-docetism-encratism-gnosticism
 title: Whose Orthodoxy? Docetism, Encratism, Gnosticism
+parent: "lectures-1-10"
+order: 5
 ---

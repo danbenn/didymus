@@ -4,4 +4,6 @@ attachments:
   url: /files/late_medieval_mystical_traditions.pdf
 slug: late-medieval-mystical-traditions
 title: Late Medieval Mystical Traditions
+parent: "historical-theology-lectures-11-20"
+order: 2
 ---

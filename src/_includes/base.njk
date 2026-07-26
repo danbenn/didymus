@@ -28,7 +28,7 @@
     <div id="search" class="site-search"></div>
     <nav class="site-nav">
       <ul class="nav-tree">
-      {% for item in nav %}{{ navmacro.navitem(item) }}{% endfor %}
+      {% for item in collections.navTree %}{{ navmacro.navitem(item) }}{% endfor %}
         <li><a href="/sitemap/">All Pages</a></li>
       </ul>
     </nav>

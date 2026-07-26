@@ -4,4 +4,6 @@ attachments:
   url: /files/what_it_means_to_be_a_seminary_professor.pdf
 slug: what-it-means-to-be-a-seminary-professor
 title: What It Means to Be a Seminary Professor
+parent: "themes-in-christian-spirituality"
+order: 11
 ---

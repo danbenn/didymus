@@ -4,4 +4,6 @@ attachments:
   url: /files/case_studies_on_conflict_in_the_church.pdf
 slug: case-studies-on-conflict-in-the-church
 title: Case Studies on Conflict in the Church
+parent: "pastoral-ethics-case-studies"
+order: 2
 ---

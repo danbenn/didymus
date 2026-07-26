@@ -6,4 +6,6 @@ attachments:
   url: /files/the_nature_and_challenges_of_pastoral_ministry.pdf
 slug: the-nature-and-challenges-of-pastoral-ministry
 title: The Nature and Challenges of Pastoral Ministry
+parent: "moral-issues-lectures"
+order: 0
 ---

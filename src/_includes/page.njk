@@ -23,5 +23,16 @@ layout: base.njk
     </ul>
   </div>
   {% endif %}
+  {% set children = collections.childrenBySlug[slug] %}
+  {% if children and children.length %}
+  <div class="section-index">
+    <h2>In This Section</h2>
+    <ul class="page-list">
+    {% for c in children %}
+      <li><a href="/{{ c.slug }}/">{{ c.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
   </div>
 </article>

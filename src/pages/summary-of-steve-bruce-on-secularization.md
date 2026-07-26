@@ -6,4 +6,6 @@ attachments:
   url: /files/summary_of_steve_bruce_on_secularization.pdf
 slug: summary-of-steve-bruce-on-secularization
 title: Summary of Steve Bruce on Secularization
+parent: "lectures-12-15"
+order: 0
 ---

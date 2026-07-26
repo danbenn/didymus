@@ -4,4 +4,6 @@ attachments:
   url: /files/final_examprayer_and_spirituality_in_the_early_church.pdf
 slug: prayer-and-spirituality-final-exam-2011
 title: Prayer and Spirituality Final Exam 2011
+parent: "prayer-and-spirituality-in-the-early-church-spiritual-direction-and-pastoral-care-in-the-greek-fathers"
+order: 3
 ---

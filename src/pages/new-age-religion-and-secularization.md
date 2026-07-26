@@ -6,4 +6,6 @@ attachments:
   url: /files/new_age_and_secularization.pdf
 slug: new-age-religion-and-secularization
 title: New Age Religion and Secularization
+parent: "lectures-12-15"
+order: 4
 ---

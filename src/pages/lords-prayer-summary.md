@@ -6,4 +6,6 @@ attachments:
   url: /files/lords_prayer_summary.pdf
 slug: lords-prayer-summary
 title: Lord's Prayer Summary
+parent: "the-lords-prayer"
+order: 1
 ---

@@ -6,4 +6,6 @@ attachments:
   url: /files/moral_issues_syllabus_2018rev.pdf
 slug: moral-issues-syllabus
 title: Moral Issues Syllabus
+parent: "pastoral-ethics"
+order: 1
 ---

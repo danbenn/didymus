@@ -6,4 +6,6 @@ attachments:
   url: /files/intro_to_augustine_life_and_works.pdf
 slug: intro-to-augustines-life-and-works
 title: Intro to Augustine's Life and Works
+parent: "augustine-seminar-lectures-1-5"
+order: 0
 ---

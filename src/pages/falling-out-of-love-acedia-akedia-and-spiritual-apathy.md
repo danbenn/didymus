@@ -4,4 +4,6 @@ attachments:
   url: /files/akedia_and_spiritual_apathy.pdf
 slug: falling-out-of-love-acedia-akedia-and-spiritual-apathy
 title: 'Falling Out of Love: Acedia (Akedia) and Spiritual Apathy'
+parent: "the-seven-deadly-sins"
+order: 5
 ---

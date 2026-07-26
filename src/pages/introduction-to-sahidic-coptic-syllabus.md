@@ -6,4 +6,6 @@ attachments:
   url: /files/intro_to_sahidic_coptic_syllabus.pdf
 slug: introduction-to-sahidic-coptic-syllabus
 title: Introduction to Sahidic Coptic Syllabus
+parent: "introduction-to-sahidic-coptic"
+order: 0
 ---

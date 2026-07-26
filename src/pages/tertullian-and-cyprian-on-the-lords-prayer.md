@@ -6,4 +6,6 @@ attachments:
   url: /files/cyprian_and_tertullian_on_the_lords_prayer.pdf
 slug: tertullian-and-cyprian-on-the-lords-prayer
 title: Tertullian and Cyprian on the Lord's Prayer
+parent: "prayer-and-spirituality-lectures-1-5"
+order: 2
 ---

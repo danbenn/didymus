@@ -6,4 +6,6 @@ attachments:
   url: /files/evagrius_on_gluttony.pdf
 slug: evagrius-on-gluttony
 title: Evagrius on Gluttony
+parent: "prayer-and-spirituality-lectures-6-21"
+order: 9
 ---

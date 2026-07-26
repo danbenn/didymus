@@ -4,4 +4,6 @@ attachments:
   url: /files/john_locke_on_toleration.pdf
 slug: john-locke-on-toleration
 title: John Locke on Toleration
+parent: "historical-theology-iv-lectures-7-11"
+order: 0
 ---

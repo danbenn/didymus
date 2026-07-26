@@ -6,4 +6,6 @@ attachments:
     url: "/files/evagrius_life_summary_eight_evil_reasonings.docx"
   - file: "evagrius_life_summary_eight_evil_reasonings.pdf"
     url: "/files/evagrius_life_summary_eight_evil_reasonings.pdf"
+parent: "prayer-and-spirituality-lectures-6-21"
+order: 0
 ---

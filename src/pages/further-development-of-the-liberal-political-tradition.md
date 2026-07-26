@@ -6,4 +6,6 @@ attachments:
   url: /files/the_further_development_of_the_liberal_political_tradition.pdf
 slug: further-development-of-the-liberal-political-tradition
 title: Further Development of the Liberal Political Tradition
+parent: "historical-theology-iv-lectures-7-11"
+order: 3
 ---

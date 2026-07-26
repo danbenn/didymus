@@ -4,4 +4,6 @@ attachments:
   url: /files/sexual_misconduct_in_pastoral_ministry.pdf
 slug: sexual-misconduct-in-pastoral-ministry
 title: Sexual Misconduct in Pastoral Ministry
+parent: "clergy-sexual-misconduct"
+order: 1
 ---
